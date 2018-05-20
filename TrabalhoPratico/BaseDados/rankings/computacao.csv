@@ -1,0 +1,673 @@
+Posição;Nome;Estado;"Pública ou Privada";"Posição em avaliação do Mercado";"Nota em avaliação do Mercado";"Posição em qualidade de ensino";"Nota em qualidade de ensino";"Posição em Instrução dos Professores";"Nota em Instrução dos Professores";"Posição Nota dos concluintes";"Nota dos concluintes";"Posição em Tempo de Dedicação dos Professores";"Nota em Tempo de Dedicação dos Professores";"Posição no MEC";"Nota no MEC"
+1;"Universidade Estadual de Campinas (UNICAMP)";SP;Pública;7;34.69;1;62;10;7.89;29;3.8;1;8;2;42.31
+2;"Universidade Federal do Rio de Janeiro (UFRJ)";RJ;Pública;3;35.56;3;60.42;6;7.94;21;3.86;1;8;3;40.62
+3;"Universidade de São Paulo (USP)";SP;Pública;1;36;4;59.96;4;7.96;;;1;8;1;44
+4;"Universidade Federal do Rio Grande do Sul (UFRGS)";RS;Pública;7;34.69;2;60.45;9;7.91;12;3.92;1;8;3;40.62
+5;"Universidade Federal de Minas Gerais (UFMG)";MG;Pública;3;35.56;5;57.16;5;7.95;4;3.98;1;8;5;37.23
+6;"Universidade Federal de Pernambuco (UFPE)";PE;Pública;7;34.69;6;56.99;17;7.81;8;3.95;1;8;5;37.23
+7;"Universidade Federal de Santa Catarina (UFSC)";SC;Pública;17;32.51;7;56.91;15;7.83;22;3.85;1;8;5;37.23
+8;"Universidade Federal de São Carlos (UFSCAR)";SP;Pública;17;32.51;8;51.58;11;7.88;65;3.55;1;8;8;32.15
+9;"Pontifícia Universidade Católica do Rio de Janeiro (PUC-RIO)";RJ;Privada;17;32.51;10;45.71;21;7.76;41;3.72;494;2.08;8;32.15
+10;"Universidade de Brasília (UNB)";DF;Pública;17;32.51;11;45.14;14;7.85;15;3.9;1;8;12;25.39
+11;"Universidade Federal do Paraná (UFPR)";PR;Pública;17;32.51;13;44.79;20;7.77;54;3.63;1;8;12;25.39
+12;"Universidade Estadual Paulista Júlio de Mesquita Filho (UNESP)";SP;Pública;17;32.51;14;44.75;7;7.93;146;2.98;245;5.07;10;28.77
+13;"Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS)";RS;Privada;7;34.69;18;39.86;29;7.67;126;3.12;361;3.68;12;25.39
+14;"Instituto Tecnológico de Aeronáutica (ITA)";SP;Pública;39;27.71;9;46.44;12;7.87;2;3.99;183;5.81;10;28.77
+15;"Universidade Federal de Campina Grande (UFCG)";PB;Pública;39;27.71;15;44.67;41;7.52;35;3.76;1;8;12;25.39
+16;"Universidade Federal da Paraíba (UFPB)";PB;Pública;39;27.71;16;44.33;35;7.6;95;3.34;1;8;12;25.39
+17;"Universidade Federal do Ceará (UFC)";CE;Pública;7;34.69;19;32.57;47;7.45;61;3.58;1;8;19;13.54
+18;"Universidade Federal de Goiás (UFG)";GO;Pública;7;34.69;20;32.01;84;7.01;78;3.46;1;8;19;13.54
+19;"Universidade do Vale do Rio dos Sinos (UNISINOS)";RS;Privada;17;32.51;21;29.62;52;7.39;69;3.52;237;5.17;19;13.54
+20;"Pontifícia Universidade Católica de São Paulo (PUCSP)";SP;Privada;17;32.51;22;29.23;45;7.48;276;2.07;156;6.14;19;13.54
+21;"Universidade Tecnológica Federal do Paraná (UTFPR)";PR;Pública;88;17.02;17;44.31;81;7.05;19;3.87;1;8;12;25.39
+22;"Universidade Presbiteriana Mackenzie (MACKENZIE)";SP;Privada;3;35.56;26;25.02;57;7.33;135;3.06;576;1.09;19;13.54
+23;"Pontifícia Universidade Católica do Paraná (PUCPR)";PR;Privada;17;32.51;23;27.41;78;7.08;192;2.66;323;4.13;19;13.54
+24;"Centro Universitário da Fundação Educacional Inaciana Pe Sabóia de Medeiros (FEI)";SP;Privada;39;27.71;24;26.25;19;7.79;145;2.99;506;1.93;19;13.54
+25;"Universidade Federal Fluminense (UFF)";RJ;Pública;17;32.51;30;19.56;13;7.86;44;3.7;1;8;0;0
+26;"Universidade Federal do Rio Grande do Norte (UFRN)";RN;Pública;17;32.51;40;18.86;61;7.29;62;3.57;1;8;0;0
+27;"Universidade Federal da Bahia (UFBA)";BA;Pública;17;32.51;52;18.38;132;6.44;9;3.94;1;8;;
+28;"Pontifícia Universidade Católica de Minas Gerais (PUC MINAS)";MG;Privada;3;35.56;117;14.73;82;7.03;94;3.35;305;4.35;0;0
+29;"Universidade Paulista (UNIP)";SP;Privada;1;36;154;13.64;163;6.07;266;2.14;215;5.43;;
+30;"Universidade do Estado do Rio de Janeiro (UERJ)";RJ;Pública;7;34.69;134;14.21;100;6.82;156;2.91;294;4.48;;
+31;"Universidade Federal de Juiz de Fora (UFJF)";MG;Pública;39;27.71;29;19.58;28;7.68;15;3.9;1;8;;
+32;"Universidade Estadual do Ceará (UECE)";CE;Pública;17;32.51;128;14.43;80;7.06;91;3.37;334;4;;
+33;"Centro Universitário de Maringá (UNICESUMAR)";PR;Privada;39;27.71;36;19.19;59;7.31;18;3.88;1;8;0;0
+34;"Universidade Positivo (UP)";PR;Privada;17;32.51;138;14.09;102;6.8;194;2.65;281;4.64;;
+35;"Universidade Federal de Viçosa (UFV)";MG;Pública;39;27.71;41;18.79;68;7.2;59;3.59;1;8;0;0
+36;"Universidade Estácio de Sá (UNESA)";RJ;Privada;7;34.69;235;11.5;264;4.86;168;2.83;350;3.81;;
+37;"Universidade Federal do Espírito Santo (UFES)";ES;Pública;39;27.71;51;18.46;44;7.49;148;2.97;1;8;;
+38;"Pontifícia Universidade Católica de Goiás (PUC GOIÁS)";GO;Privada;7;34.69;240;11.42;187;5.78;262;2.17;378;3.47;;
+39;"Universidade Estadual de Maringá (UEM)";PR;Pública;39;27.71;56;18.19;53;7.38;171;2.81;1;8;;
+40;"Universidade de Pernambuco (UPE)";PE;Pública;39;27.71;59;17.98;60;7.3;189;2.68;1;8;;
+41;"Universidade Federal do Amazonas (UFAM)";AM;Pública;39;27.71;60;17.93;95;6.88;136;3.05;1;8;0;0
+42;"Universidade Federal do Pará (UFPA)";PA;Pública;39;27.71;61;17.92;73;7.14;175;2.78;1;8;;
+43;"Universidade Federal de Mato Grosso (UFMT)";MT;Pública;39;27.71;68;17.54;144;6.3;109;3.24;1;8;;
+44;"Universidade Federal de Sergipe (UFS)";SE;Pública;39;27.71;69;17.5;181;5.85;51;3.65;1;8;0;0
+45;"Universidade Federal de Alagoas (UFAL)";AL;Pública;39;27.71;70;17.49;34;7.61;303;1.88;1;8;;
+46;"Universidade Federal de Uberlândia (UFU)";MG;Pública;39;27.71;71;17.47;37;7.57;47;3.68;149;6.22;0;0
+47;"Instituto Militar de Engenharia (IME)";RJ;Pública;0;0;12;45.12;24;7.73;1;4;1;8;12;25.39
+48;"Universidade de Fortaleza (UNIFOR)";CE;Privada;7;34.69;294;10.12;139;6.36;264;2.16;534;1.6;0;0
+49;"Universidade Nove de Julho (UNINOVE)";SP;Privada;17;32.51;196;12.14;153;6.19;456;0.81;239;5.14;;
+50;"Universidade Federal do Maranhão (UFMA)";MA;Pública;39;27.71;77;16.89;129;6.47;226;2.42;1;8;;
+51;"Universidade do Oeste Paulista (UNOESTE)";SP;Privada;39;27.71;81;16.67;67;7.21;29;3.8;196;5.66;;
+52;"Universidade de Caxias do Sul (UCS)";RS;Privada;17;32.51;222;11.71;105;6.76;164;2.86;493;2.09;;
+53;"Universidade Salvador (UNIFACS)";BA;Privada;17;32.51;264;10.81;214;5.46;125;3.13;482;2.22;0;0
+54;"Universidade Federal de Mato Grosso do Sul (UFMS)";MS;Pública;39;27.71;104;15.32;155;6.16;97;3.33;182;5.83;0;0
+55;"Faculdade Integrada Metropolitana de Campinas (METROCAMP)";SP;Privada;88;17.02;25;25.57;191;5.74;308;1.85;297;4.44;19;13.54
+56;"Universidade Potiguar (UNP)";RN;Privada;17;32.51;296;10.06;308;4.34;393;1.25;295;4.47;;
+57;"Universidade Anhembi Morumbi (UAM)";SP;Privada;39;27.71;129;14.42;36;7.58;182;2.73;325;4.11;;
+58;"Universidade Fumec (FUMEC)";MG;Privada;17;32.51;325;9.47;198;5.65;292;1.96;512;1.86;;
+59;"Pontifícia Universidade Católica de Campinas (PUC-CAMPINAS)";SP;Privada;17;32.51;333;9.39;149;6.24;179;2.75;634;0.4;0;0
+60;"Universidade do Vale do Itajaí (UNIVALI)";SC;Privada;39;27.71;144;13.98;136;6.39;189;2.68;258;4.91;;
+61;"Faculdade Ruy Barbosa (FRBA)";BA;Privada;39;27.71;174;12.77;213;5.47;293;1.95;222;5.35;;
+62;"Centro Universitário do Instituto de Educação Superior de Brasília (IESB)";DF;Privada;39;27.71;177;12.76;150;6.22;242;2.31;315;4.23;;
+63;"Faculdade de Informática e Administração Paulista (FIAP)";SP;Privada;39;27.71;179;12.68;89;6.95;38;3.74;501;1.99;0;0
+64;"Universidade Católica do Salvador (UCSAL)";BA;Privada;39;27.71;182;12.63;161;6.09;371;1.41;240;5.13;;
+65;"Universidade Católica de Pernambuco (UNICAP)";PE;Privada;17;32.51;426;7.76;190;5.75;409;1.14;595;0.87;0;0
+66;"Centro Universitário Una (UNA)";MG;Privada;39;27.71;205;12.01;156;6.15;85;3.41;463;2.45;0;0
+67;"Centro Universitário do Estado do Pará (CESUPA)";PA;Privada;39;27.71;212;11.87;260;4.91;249;2.26;276;4.7;;
+68;"Universidade de Passo Fundo (UPF)";RS;Privada;39;27.71;213;11.83;112;6.68;373;1.39;354;3.76;;
+69;"Universidade do Sul de Santa Catarina (UNISUL)";SC;Privada;39;27.71;216;11.77;205;5.57;232;2.38;349;3.82;;
+70;"Universidade São Judas Tadeu (USJT)";SP;Privada;39;27.71;224;11.64;124;6.53;122;3.15;504;1.96;;
+71;"Universidade do Grande Rio Professor José de Souza Herdy (UNIGRANRIO)";RJ;Privada;39;27.71;232;11.55;433;2.85;211;2.53;153;6.17;;
+72;"Universidade Luterana do Brasil (ULBRA)";RS;Privada;39;27.71;245;11.3;330;4.08;248;2.27;255;4.95;;
+73;"Centro Universitário das Faculdades Metropolitanas Unidas (FMU)";SP;Privada;17;32.51;502;6.37;430;2.89;;;377;3.48;;
+74;"Universidade Veiga de Almeida (UVA)";RJ;Privada;39;27.71;253;11.11;91;6.93;412;1.12;412;3.06;;
+75;"Faculdades Integradas Espírito Santenses (FAESA I)";ES;Privada;39;27.71;257;10.96;334;4.03;142;3.01;341;3.92;;
+76;"Universidade Católica de Brasília (UCB)";DF;Privada;39;27.71;258;10.93;239;5.16;312;1.82;338;3.95;;
+77;"Centro Universitário Maurício de Nassau (UNINASSAU)";PE;Privada;39;27.71;283;10.45;313;4.28;144;3;403;3.17;;
+78;"Universidade Regional de Blumenau (FURB)";SC;Pública;39;27.71;315;9.62;234;5.22;81;3.44;587;0.96;0;0
+79;"Universidade da Amazônia (UNAMA)";PA;Privada;39;27.71;342;9.17;212;5.48;493;0.55;406;3.14;;
+80;"Universidade de Cuiabá (UNIC / PITÁGORAS)";MT;Privada;39;27.71;355;8.97;449;2.66;458;0.8;208;5.51;;
+81;"Universidade Federal de São João Del Rei (UFSJ)";MG;Pública;88;17.02;33;19.31;46;7.46;22;3.85;1;8;;
+82;"Universidade Federal de Santa Maria (UFSM)";RS;Pública;88;17.02;34;19.29;26;7.7;59;3.59;1;8;0;0
+83;"Centro Universitário de Brasília (UNICEUB)";DF;Privada;39;27.71;383;8.44;179;5.88;446;0.88;527;1.68;;
+84;"Faculdade Impacta de Tecnologia (FIT)";SP;Privada;39;27.71;396;8.3;315;4.26;129;3.1;589;0.94;;
+85;"Universidade Estadual de Londrina (UEL)";PR;Pública;88;17.02;45;18.65;25;7.71;152;2.94;1;8;;
+86;"Universidade Federal de Lavras (UFLA)";MG;Pública;88;17.02;46;18.63;22;7.75;161;2.88;1;8;;
+87;"Universidade Comunitária da Região de Chapecó (UNOCHAPECÓ)";SC;Pública;39;27.71;418;7.92;544;1.53;399;1.21;236;5.18;;
+88;"Universidade Tiradentes (UNIT)";SE;Privada;39;27.71;434;7.66;475;2.35;259;2.19;407;3.12;;
+89;"Universidade Estadual do Centro Oeste (UNICENTRO)";PR;Pública;88;17.02;54;18.21;133;6.43;32;3.78;1;8;;
+90;"Universidade Estadual do Oeste do Paraná (UNIOESTE)";PR;Pública;88;17.02;57;18.07;97;6.86;114;3.21;1;8;;
+91;"Centro Federal de Educação Tecnológica de Minas Gerais (CEFET/MG)";MG;Pública;88;17.02;58;18.03;142;6.32;42;3.71;1;8;0;0
+92;"Faculdade de Computação e Informática da Fundação Armando Alvares Penteado (FCI-FAAP)";SP;Privada;39;27.71;453;7.24;65;7.24;;;;;;
+93;"Fundação Universidade Federal do Tocantins (UFT)";TO;Pública;88;17.02;80;16.76;115;6.64;269;2.12;1;8;;
+94;"Universidade do Ceuma (UNICEUMA)";MA;Privada;88;17.02;82;16.66;171;5.97;188;2.69;1;8;;
+94;"Centro Universitário Newton Paiva (NEWTON PAIVA)";MG;Privada;39;27.71;528;5.97;660;0.14;196;2.63;401;3.2;;
+96;"Universidade do Oeste de Santa Catarina (UNOESC)";SC;Pública;39;27.71;551;5.6;575;1.16;326;1.72;441;2.72;;
+97;"Centro Universitário Facvest (FACVEST)";SC;Privada;88;17.02;94;16.03;54;7.37;478;0.66;1;8;;
+98;"Universidade de Ribeirão Preto (UNAERP)";SP;Privada;88;17.02;95;15.99;90;6.94;158;2.9;155;6.15;;
+99;"Faculdade Interamericana de Porto Velho (UNIRON)";RO;Privada;39;27.71;573;5.1;558;1.36;368;1.43;475;2.31;;
+100;"Centro Universitário do Norte (UNINORTE)";AM;Privada;39;27.71;575;5.06;460;2.53;369;1.42;575;1.11;;
+101;"Universidade Federal do Piauí (UFPI)";PI;Pública;88;17.02;107;15.25;216;5.44;313;1.81;1;8;;
+102;"Universidade do Estado do Rio Grande do Norte (UERN)";RN;Pública;88;17.02;108;15.21;175;5.93;389;1.28;1;8;;
+103;"Instituto de Ensino Superior Fucapi (CESF)";AM;Privada;88;17.02;116;14.76;116;6.63;284;2.02;158;6.11;;
+104;"Universidade Católica de Santos (UNISANTOS)";SP;Privada;88;17.02;127;14.44;127;6.5;255;2.22;191;5.72;;
+105;"Universidade Regional do Noroeste do Estado do Rio Grande do Sul (UNIJUI)";RS;Privada;88;17.02;130;14.37;103;6.78;215;2.5;243;5.09;;
+106;"Faculdade Sete de Setembro (FA7)";CE;Privada;88;17.02;156;13.5;167;6.02;101;3.3;319;4.18;;
+107;"Centro Universitário Cesmac (CESMAC)";AL;Privada;39;27.71;649;2.54;624;0.57;393;1.25;607;0.72;;
+108;"Universidade da Região de Joinville (UNIVILLE)";SC;Pública;88;17.02;169;13.02;243;5.12;265;2.15;188;5.75;;
+109;"Universidade de Taubaté (UNITAU)";SP;Pública;88;17.02;172;12.95;178;5.89;376;1.37;193;5.69;;
+110;"Universidade do Vale do Paraíba (UNIVAP)";SP;Privada;88;17.02;188;12.44;48;7.44;415;1.1;342;3.9;;
+111;"Universidade Cruzeiro do Sul (UNICSUL)";SP;Privada;88;17.02;191;12.3;74;7.13;311;1.83;389;3.34;;
+112;"Centro Universitário Univates (UNIVATES)";RS;Privada;88;17.02;198;12.06;233;5.23;132;3.08;355;3.75;;
+113;"Universidade do Sagrado Coração (USC)";SP;Privada;88;17.02;199;12.05;108;6.72;490;0.57;271;4.76;;
+113;"Universidade Católica de Pelotas (UCPEL)";RS;Privada;88;17.02;199;12.05;107;6.74;565;0.05;229;5.26;0;0
+115;"Faculdade Meridional (IMED)";RS;Privada;88;17.02;206;12;249;5.04;321;1.76;234;5.2;;
+116;"Fundação Universidade do Estado de Santa Catarina (UDESC)";SC;Pública;88;17.02;215;11.79;224;5.34;65;3.55;426;2.9;0;0
+117;"Universidade Anhanguera (UNIDERP)";MS;Privada;88;17.02;226;11.63;416;3.05;196;2.63;172;5.95;;
+118;"Instituto de Estudos Superiores da Amazônia (IESAM)";PA;Privada;88;17.02;229;11.59;199;5.64;322;1.75;317;4.2;0;0
+119;"Centro Universitário de Belo Horizonte (UNI-BH)";MG;Privada;88;17.02;239;11.43;151;6.21;266;2.14;411;3.08;;
+120;"Centro Universitário Cândido Rondon (UNIRONDON)";MT;Privada;88;17.02;246;11.24;146;6.27;523;0.34;282;4.63;;
+121;"Universidade Estadual do Piauí (UESPI)";PI;Pública;88;17.02;249;11.17;451;2.64;496;0.53;1;8;;
+122;"Universidade Vila Velha (UVV)";ES;Privada;88;17.02;254;11.06;262;4.89;5;3.97;484;2.2;;
+123;"Faculdade Católica do Tocantins (FACTO)";TO;Privada;88;17.02;260;10.9;316;4.24;279;2.05;283;4.61;;
+124;"Centro Universitário Filadélfia (UNIFIL)";PR;Privada;88;17.02;272;10.65;396;3.29;49;3.66;359;3.7;;
+125;"Faculdade de Tecnologia Tecbrasil (Ftec Caxias)";RS;Privada;88;17.02;277;10.54;235;5.21;106;3.26;495;2.07;;
+126;"Centro Universitário de Várzea Grande (UNIVAG)";MT;Privada;88;17.02;282;10.45;229;5.28;293;1.95;399;3.22;;
+127;"Universidade de Santa Cruz do Sul (UNISC)";RS;Privada;88;17.02;284;10.43;114;6.65;306;1.86;507;1.92;;
+128;"Centro Universitário do Distrito Federal (UDF)";DF;Privada;88;17.02;289;10.32;242;5.13;385;1.31;344;3.88;;
+129;"Centro Universitário Salesiano de São Paulo (UNISAL)";SP;Privada;88;17.02;290;10.27;152;6.2;326;1.72;471;2.35;;
+130;"Universidade Santa Cecília (UNISANTA)";SP;Privada;88;17.02;291;10.23;297;4.47;509;0.44;224;5.32;;
+131;"Faculdade Nordeste (FANOR)";CE;Privada;88;17.02;305;9.89;422;2.98;218;2.48;298;4.43;;
+132;"Universidade Cidade de São Paulo (UNICID)";SP;Privada;88;17.02;320;9.56;259;4.92;526;0.32;307;4.32;;
+133;"Centro Universitário Eurípedes de Marília (UNIVEM)";SP;Privada;88;17.02;338;9.31;278;4.7;112;3.22;551;1.39;;
+134;"Centro Universitário Estácio do Ceará (FIC)";CE;Privada;88;17.02;357;8.96;261;4.9;199;2.61;546;1.45;;
+135;"Centro Universitário La Salle (UNILASALLE)";RS;Privada;88;17.02;360;8.84;159;6.12;252;2.24;627;0.48;;
+136;"Universidade do Extremo Sul Catarinense (UNESC)";SC;Privada;88;17.02;364;8.74;471;2.4;396;1.23;242;5.11;;
+137;"Universidade de Mogi das Cruzes (UMC)";SP;Privada;88;17.02;375;8.57;399;3.26;429;1;308;4.31;;
+138;"Universidade Metodista de São Paulo (UMESP)";SP;Privada;88;17.02;379;8.53;474;2.36;296;1.93;314;4.24;0;0
+139;"Faculdade Pitágoras de São Luiz";MA;Privada;88;17.02;395;8.3;513;1.9;441;0.92;211;5.48;;
+140;"Universidade Anhanguera de São Paulo (UNIAN)";SP;Privada;88;17.02;411;8.01;485;2.23;413;1.11;278;4.67;;
+141;"Centro Universitário São Camilo - Espírito Santo (SÃO CAMILO-ES)";ES;Privada;88;17.02;432;7.72;353;3.8;262;2.17;521;1.75;;
+142;"Centro Universitário Fundação de Ensino Octávio Bastos (UNIFEOB)";SP;Privada;88;17.02;433;7.69;365;3.66;209;2.54;543;1.49;;
+143;"Universidade Cândido Mendes (UCAM)";RJ;Privada;88;17.02;435;7.64;135;6.4;546;0.18;579;1.06;;
+144;"Centro Universitário do Triângulo (UNITRI)";MG;Privada;88;17.02;441;7.47;384;3.43;296;1.93;491;2.11;;
+145;"Universidade Regional Integrada do Alto Uruguai e das Missões (URI)";RS;Privada;88;17.02;461;7.09;389;3.37;319;1.77;505;1.95;;
+146;"Universidade São Francisco (USF)";SP;Privada;88;17.02;469;7;355;3.78;453;0.83;468;2.39;0;0
+147;"Centro Universitário Anhanguera (UNIA)";SP;Privada;88;17.02;478;6.89;528;1.72;416;1.09;327;4.08;;
+148;"Faculdade Três de Maio (SETREM)";RS;Privada;88;17.02;480;6.85;500;2.05;12;3.92;594;0.88;;
+149;"Instituto Infnet Rio de Janeiro (INFNET)";RJ;Privada;88;17.02;489;6.62;327;4.11;;;458;2.51;;
+150;"Faculdade Alves Faria (ALFA)";GO;Privada;88;17.02;496;6.47;579;1.11;172;2.8;454;2.56;;
+151;"Universidade Castelo Branco (UCB)";RJ;Privada;88;17.02;501;6.37;342;3.93;339;1.63;600;0.81;;
+151;"Universidade Paranaense (UNIPAR)";PR;Privada;88;17.02;502;6.37;477;2.33;252;2.24;517;1.8;;
+153;"Universidade de Sorocaba (UNISO)";SP;Privada;88;17.02;513;6.16;311;4.3;483;0.62;564;1.24;;
+154;"Universidade Presidente Antônio Carlos (UNIPAC)";MG;Privada;88;17.02;515;6.11;498;2.08;336;1.65;469;2.38;;
+155;"Centro Universitário Para O Desenvolvimento do Alto Vale do Itajaí (UNIDAVI)";SC;Pública;88;17.02;533;5.94;560;1.34;206;2.56;497;2.04;;
+156;"Centro Universitário Padre Anchieta (UNIANCHIETA)";SP;Privada;88;17.02;539;5.87;482;2.27;139;3.03;620;0.57;;
+157;"Universidade de Franca (UNIFRAN)";SP;Privada;88;17.02;586;4.88;517;1.85;428;1.01;499;2.02;0;0
+158;"Universidade do Planalto Catarinense (UNIPLAC)";SC;Pública;88;17.02;601;4.33;602;0.84;335;1.66;515;1.83;;
+159;"Faculdade Anhangüera de Bauru";SP;Privada;88;17.02;602;4.32;572;1.19;530;0.29;431;2.84;;
+160;"Centro Universitário Fundação Santo André (CUFSA)";SP;Pública;88;17.02;608;4.19;424;2.96;403;1.18;663;0.05;;
+161;"Faculdade de Tecnologia Ibratec (UNIBRATEC)";PE;Privada;88;17.02;612;4.02;366;3.65;;;636;0.37;;
+162;"Fundação Universidade Federal do Abc (UFABC)";SP;Pública;;;27;19.93;1;8;11;3.93;1;8;0;0
+162;"Universidade Guarulhos (UNG)";SP;Privada;88;17.02;640;2.91;510;1.93;530;0.29;610;0.69;;
+164;"Universidade Federal do Estado do Rio de Janeiro (UNIRIO)";RJ;Pública;0;0;28;19.65;16;7.82;25;3.83;1;8;0;0
+165;"Faculdade de Tecnologia de Ourinhos (FATEC)";SP;Pública;88;17.02;648;2.57;585;1.04;;;540;1.53;;
+166;"Universidade Federal Rural do Rio de Janeiro (UFRRJ)";RJ;Pública;;;31;19.44;33;7.62;27;3.82;1;8;;
+167;"Universidade Estadual do Norte Fluminense Darcy Ribeiro (UENF)";RJ;Pública;;;32;19.4;1;8;87;3.4;1;8;;
+168;"Faculdade Metropolitana de Marabá (METROPOLITANA)";PA;Privada;88;17.02;652;2.24;633;0.47;439;0.93;597;0.84;;
+169;"Universidade Federal de Pelotas (UFPEL)";RS;Pública;0;0;35;19.23;23;7.74;74;3.49;1;8;0;0
+170;"Universidade Federal dos Vales do Jequitinhonha e Mucuri (UFVJM)";MG;Pública;0;0;37;19.1;30;7.65;79;3.45;1;8;;
+171;"Universidade Federal da Fronteira Sul (UFFS)";SC;Pública;;;38;19.01;71;7.17;24;3.84;1;8;;
+172;"Universidade Federal de Alfenas (UNIFAL-MG)";MG;Pública;0;0;39;18.87;63;7.26;57;3.61;1;8;0;0
+173;"Universidade Estadual de Santa Cruz (UESC)";BA;Pública;0;0;42;18.78;77;7.09;45;3.69;1;8;;
+174;"Universidade Federal do Rio Grande (FURG)";RS;Pública;0;0;43;18.76;75;7.12;52;3.64;1;8;0;0
+175;"Universidade Federal Rural do Semi-Árido (UFERSA)";RN;Pública;;;44;18.66;70;7.18;75;3.48;1;8;;
+176;"Centro Universitário Luterano de Palmas (CEULP)";TO;Privada;0;0;47;18.6;55;7.36;109;3.24;1;8;;
+177;"Universidade Estadual do Rio Grande do Sul (UERGS)";RS;Pública;;;48;18.59;8;7.92;191;2.67;1;8;0;0
+178;"Universidade Federal do Recôncavo da Bahia (UFRB)";BA;Pública;;;49;18.5;101;6.81;45;3.69;1;8;;
+179;"Universidade Federal de Ouro Preto (UFOP)";MG;Pública;;;50;18.48;106;6.75;39;3.73;1;8;0;0
+180;"Universidade Estadual de Ponta Grossa (UEPG)";PR;Pública;;;53;18.27;49;7.43;166;2.84;1;8;;
+181;"Fundação Universidade Federal do Pampa (UNIPAMPA)";RS;Pública;;;55;18.2;43;7.5;186;2.7;1;8;;
+182;"Faculdades Integradas Iesgo (IESGO)";GO;Privada;;;62;17.91;83;7.02;159;2.89;1;8;;
+183;"Universidade Federal Rural de Pernambuco (UFRPE)";PE;Pública;;;63;17.9;120;6.58;98;3.32;1;8;;
+184;"Faculdade Redentor (FACREDENTOR)";RJ;Privada;0;0;64;17.82;98;6.84;146;2.98;1;8;;
+185;"Universidade Federal de São Paulo (UNIFESP)";SP;Pública;0;0;65;17.79;1;8;316;1.79;1;8;0;0
+185;"Faculdade Unime de Ciências Exatas e Tecnológicas (FCT)";BA;Privada;0;0;65;17.79;164;6.06;39;3.73;1;8;;
+187;"Centro Universitário Christus (UNICHRISTUS)";CE;Privada;0;0;67;17.69;166;6.03;49;3.66;1;8;;
+188;"Instituto Federal de Educação, Ciência e Tecnologia do Triângulo Mineiro";MG;Pública;;;72;17.43;192;5.72;42;3.71;1;8;;
+189;"Universidade Federal de Itajubá (UNIFEI)";MG;Pública;0;0;73;17.42;39;7.55;48;3.67;151;6.2;;
+190;"Universidade Federal Rural da Amazônia (UFRA)";PA;Pública;;;74;17.37;88;6.96;228;2.41;1;8;;
+191;"Faculdade Dom Pedro Ii (FDPII)";BA;Privada;;;75;17.35;40;7.54;313;1.81;1;8;;
+192;"Fundação Universidade Federal do Vale do São Francisco (UNIVASF)";PE;Pública;;;76;17.22;195;5.69;68;3.53;1;8;0;0
+193;"Universidade de Marília (UNIMAR)";SP;Privada;88;17.02;;;;;;;;;;
+195;"Universidade Católica Dom Bosco (UCDB)";MS;Privada;0;0;78;16.88;130;6.46;226;2.42;1;8;;
+196;"Universidade Estadual de Feira de Santana (UEFS)";BA;Pública;0;0;79;16.83;131;6.45;232;2.38;1;8;;
+197;"Centro Universitário Estadual da Zona Oeste (UEZO)";RJ;Pública;0;0;82;16.66;27;7.69;433;0.97;1;8;;
+198;"Centro Universitário do Rio Grande do Norte (UNI-RN)";RN;Privada;;;84;16.63;145;6.28;236;2.35;1;8;;
+199;"Faculdade Projeção de Ceilândia (FACEB)";DF;Privada;;;85;16.61;109;6.71;301;1.9;1;8;;
+200;"Universidade Estadual do Sudoeste da Bahia (UESB)";BA;Pública;0;0;86;16.59;180;5.87;184;2.72;1;8;;
+201;"Universidade do Estado do Amazonas (UEA)";AM;Pública;0;0;87;16.53;168;6.01;212;2.52;1;8;;
+202;"Faculdades Integradas de Caratinga (FIC)";MG;Privada;;;88;16.37;138;6.37;286;2;1;8;;
+203;"Instituto Federal de Educação, Ciência e Tecnologia Catarinense (IF Catarinense)";SC;Pública;;;89;16.33;200;5.63;186;2.7;1;8;;
+204;"Faculdade Pitágoras de Linhares";ES;Privada;;;90;16.25;277;4.71;67;3.54;1;8;;
+205;"Faculdade de Ciências Administrativas e Contábeis de Itabira (FACCI)";MG;Privada;;;91;16.17;148;6.25;298;1.92;1;8;;
+206;"Faculdade Gama e Souza (FGS)";RJ;Privada;;;92;16.09;104;6.77;383;1.32;1;8;;
+207;"Faculdade Farias Brito (FFB)";CE;Privada;;;93;16.05;64;7.25;89;3.38;216;5.42;;
+208;"Centro Universitário de Volta Redonda (UNIFOA)";RJ;Privada;0;0;96;15.93;72;7.15;112;3.22;204;5.56;;
+209;"Faculdades Unificadas de Cataguases (FUC)";MG;Privada;;;97;15.89;310;4.32;62;3.57;1;8;;
+210;"Faculdade de Ciências Sociais e Agrárias de Itapeva (FAIT)";SP;Privada;0;0;98;15.64;31;7.64;;;1;8;;
+210;"Instituto Federal de Educação, Ciência e Tecnologia Fluminense (IF Fluminense)";RJ;Pública;;;98;15.64;251;5.02;198;2.62;1;8;;
+212;"Faculdade Projeção (FAPRO)";DF;Privada;;;100;15.49;173;5.95;352;1.54;1;8;;
+213;"Faculdade de Ciências Humanas e Sociais (FACULDADE AGES)";BA;Privada;;;101;15.42;50;7.42;;;1;8;;
+213;"Faculdade de Ensino Superior e Formação Integral (FAEF)";SP;Privada;;;101;15.42;50;7.42;;;1;8;;
+215;"Faculdade Atenas";MG;Privada;;;103;15.36;42;7.51;37;3.75;326;4.1;;
+216;"Centro Federal de Educação Tecnológica Celso Suckow da Fonseca (CEFET/RJ)";RJ;Pública;;;104;15.32;58;7.32;;;1;8;0;0
+217;"Faculdade de Ciências Sociais Aplicadas (FACISA)";PB;Privada;;;106;15.3;92;6.92;119;3.17;233;5.21;;
+218;"Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo (IFES)";ES;Pública;;;109;15.2;322;4.17;139;3.03;1;8;;
+219;"Fundação Universidade Federal da Grande Dourados (UFGD)";MS;Pública;;;110;15.06;165;6.05;122;3.15;179;5.86;;
+220;"Universidade Federal do Amapá (UNIFAP)";AP;Pública;;;111;15;85;7;;;1;8;;
+221;"Faculdade Evangélica (FE)";DF;Privada;;;112;14.98;87;6.98;;;1;8;;
+222;"Universidade Feevale (FEEVALE)";RS;Privada;0;0;113;14.94;188;5.77;134;3.07;159;6.1;;
+223;"Centro Universitário Uniseb (UNISEB)";SP;Privada;0;0;114;14.9;86;6.99;208;2.55;221;5.36;;
+224;"Faculdade Metropolitana de Manaus (FAMETRO)";AM;Privada;0;0;115;14.8;38;7.56;349;1.56;194;5.68;;
+225;"Faculdade Anchieta de Ensino Superior do Paraná (FAESP)";PR;Privada;;;118;14.67;125;6.52;176;2.77;219;5.38;;
+226;"Instituto Federal de Educação, Ciência e Tecnologia de Alagoas (IFAL)";AL;Pública;;;119;14.64;232;5.25;92;3.36;165;6.03;;
+227;"Universidade Federal do Oeste do Pará (UFOPA)";PA;Pública;;;120;14.62;147;6.26;520;0.36;1;8;;
+228;"Fae Centro Universitário (FAE)";PR;Privada;0;0;121;14.61;118;6.61;;;1;8;;
+228;"Faculdade Avantis (AVANTIS)";SC;Privada;0;0;121;14.61;404;3.2;85;3.41;1;8;;
+230;"Faculdade Paraíso do Ceará (FAP)";CE;Privada;0;0;123;14.55;226;5.32;116;3.19;164;6.04;;
+231;"Faculdade Brasileira (MULTIVIX)";ES;Privada;;;124;14.52;125;6.52;;;1;8;;
+232;"Faculdade Pitágoras de Belo Horizonte (FPAS)";MG;Privada;;;125;14.51;96;6.87;323;1.74;176;5.9;;
+233;"Instituto Federal de Educação, Ciência e Tecnologia do Sudeste de Minas Gerais (IFSEMG)";MG;Pública;;;126;14.5;354;3.79;185;2.71;1;8;;
+234;"Faculdade Projeção de Sobradinho (FAPRO)";DF;Privada;;;131;14.31;176;5.91;515;0.4;1;8;;
+235;"Faculdade Pitágoras de Uberlândia (PIT UBERLÂNDIA)";MG;Privada;0;0;132;14.26;119;6.59;336;1.65;166;6.02;;
+236;"Faculdade Dom Bosco de Porto Alegre (FDB)";RS;Privada;;;133;14.23;62;7.27;28;3.81;405;3.15;;
+237;"Centro Universitário de Mineiros (UNIFIMES)";GO;Pública;;;135;14.18;236;5.2;432;0.98;1;8;;
+238;"Instituto Federal de Educação, Ciência e Tecnologia da Bahia (IFBA)";BA;Pública;;;136;14.13;490;2.17;7;3.96;1;8;;
+239;"Faculdade Integrada da Grande Fortaleza (FGF)";CE;Privada;;;137;14.1;331;4.07;282;2.03;1;8;;
+240;"Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso (IFMT)";MT;Pública;;;139;14.08;162;6.08;;;1;8;;
+241;"Universidade do Estado da Bahia (UNEB)";BA;Pública;0;0;140;14.07;202;5.6;121;3.16;225;5.31;;
+242;"Faculdade Pitágoras de Divinópolis (FPD)";MG;Privada;0;0;141;14.02;123;6.55;351;1.55;174;5.92;;
+242;"Universidade Federal do Acre (UFAC)";AC;Pública;;;141;14.02;466;2.46;64;3.56;1;8;;
+244;"Faculdade de Ciências Sociais Aplicadas do Vale do São Lourenço (EDUVALE)";MT;Privada;;;143;14;169;6;;;1;8;;
+245;"Instituto Federal de Educação, Ciência e Tecnologia Farroupilha (IFFarroupilha)";RS;Pública;0;0;144;13.98;362;3.7;246;2.28;1;8;;
+246;"Faculdade Cenecista de Joinville - Face (FCJ)";SC;Privada;0;0;146;13.91;176;5.91;;;1;8;;
+247;"Faculdades Integradas de Rondonópolis (FAIR)";MT;Privada;;;147;13.87;121;6.57;389;1.28;166;6.02;;
+248;"Instituto Federal de Educação, Ciência e Tecnologia do Maranhão (IFMA)";MA;Pública;0;0;148;13.84;271;4.78;159;2.89;153;6.17;;
+249;"Faculdade Pereira de Freitas (FPF)";MG;Privada;;;149;13.82;184;5.82;;;1;8;;
+250;"Universidade Estadual de Montes Claros (UNIMONTES)";MG;Pública;;;150;13.73;350;3.84;35;3.76;157;6.13;;
+251;"Faculdade Antônio Meneghetti (AMF)";RS;Privada;;;151;13.69;204;5.58;242;2.31;184;5.8;;
+252;"Centro Universitário Franciscano (UNIFRA)";RS;Privada;0;0;152;13.68;245;5.09;95;3.34;230;5.25;0;0
+253;"Faculdades Unificadas de Teófilo Otoni (FUTO)";MG;Privada;;;153;13.67;314;4.27;372;1.4;1;8;;
+254;"Centro Universitário de João Pessoa (UNIPÊ)";PB;Privada;0;0;155;13.6;282;4.65;436;0.95;1;8;;
+255;"Universidade do Tocantins (UNITINS)";TO;Pública;;;156;13.5;441;2.75;179;2.75;1;8;;
+256;"Centro Universitário Geraldo Di Biase (UGB)";RJ;Privada;0;0;158;13.42;238;5.17;229;2.4;180;5.85;;
+256;"Universidade Federal do Sul e Sudeste do Pará (UNIFESSPA)";PA;Pública;0;0;158;13.42;303;4.4;426;1.02;1;8;;
+258;"Instituto Federal de Educação, Ciência e Tecnologia do Sul de Minas Gerais (IF SUL DE MINAS)";MG;Pública;;;160;13.41;427;2.92;216;2.49;1;8;;
+259;"Universidade Estadual do Norte do Paraná (UENP)";PR;Pública;0;0;161;13.23;429;2.9;239;2.33;1;8;;
+260;"Faculdade Escritor Osman da Costa Lins (FACOL)";PE;Privada;;;162;13.21;393;3.33;303;1.88;1;8;;
+261;"Centro Universitário Euro-Americano (UNIEURO)";DF;Privada;;;163;13.2;65;7.24;;;171;5.96;;
+262;"Faculdade do Espírito Santo (UNES)";ES;Privada;;;164;13.16;274;4.75;75;3.48;257;4.93;;
+262;"Centro Universitário de Franca (UNI-FACEF)";SP;Pública;0;0;164;13.16;79;7.07;88;3.39;442;2.7;;
+264;"Faculdade Cenecista de Capivari (FACECAP)";SP;Privada;;;166;13.1;244;5.1;;;1;8;;
+265;"Centro Universitário Serra dos Órgãos (UNIFESO)";RJ;Privada;;;167;13.09;196;5.68;206;2.56;263;4.85;;
+266;"Centro Universitário da Grande Dourados (UNIGRAN)";MS;Privada;;;168;13.04;158;6.13;392;1.26;197;5.65;;
+267;"Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE)";CE;Pública;0;0;169;13.02;395;3.3;71;3.51;150;6.21;;
+268;"Escola Superior de Propaganda e Marketing (ESPM)";SP;Privada;;;171;12.99;18;7.8;;;235;5.19;;
+269;"Faculdades Integradas Rio Branco (FRB)";SP;Privada;;;172;12.95;93;6.9;128;3.11;422;2.94;;
+270;"Centro Universitário de União da Vitória (UNIUV)";PR;Pública;0;0;174;12.77;491;2.16;199;2.61;1;8;;
+270;"Faculdade de Ciência e Tecnologia (ÁREA1)";BA;Privada;0;0;174;12.77;122;6.56;480;0.64;203;5.57;;
+272;"Instituto Federal de Educação, Ciência e Tecnologia Baiano (IFBAIANO)";BA;Pública;;;178;12.72;593;0.94;32;3.78;1;8;;
+273;"Faculdade Pitágoras de Betim (PITÁGORAS-BETIM)";MG;Privada;;;180;12.68;128;6.49;488;0.59;201;5.6;;
+274;"Faculdade de Juazeiro do Norte (FJN)";CE;Privada;0;0;181;12.67;250;5.03;331;1.69;172;5.95;;
+275;"Instituto Federal de Educação, Ciência e Tecnologia de Brasília (IFB)";DF;Pública;;;182;12.63;284;4.63;;;1;8;;
+276;"Faculdade Boa Viagem (FBV)";PE;Privada;0;0;184;12.6;280;4.67;165;2.85;244;5.08;;
+277;"Faculdade Aldete Maria Alves (FAMA)";MG;Privada;;;185;12.55;290;4.55;;;1;8;;
+277;"Faculdades Integradas de Ourinhos (FIO)";SP;Privada;;;185;12.55;276;4.72;202;2.59;231;5.24;;
+279;"Faculdade Pitágoras de Teixeira de Freitas (PIT TEIXEIRA)";BA;Privada;0;0;187;12.47;183;5.83;439;0.93;192;5.71;;
+280;"Universidade Estadual da Paraíba (UEPB)";PB;Pública;0;0;189;12.38;543;1.54;166;2.84;1;8;;
+281;"Unidade de Ensino Superior Dom Bosco (UNDB)";MA;Privada;;;190;12.33;426;2.93;14;3.91;210;5.49;;
+282;"Faculdade Energia de Administração e Negócios (FEAN)";SC;Privada;;;192;12.26;246;5.08;169;2.82;304;4.36;;
+283;"Faculdade Pitágoras de Guarapari";ES;Privada;;;193;12.2;462;2.5;329;1.7;1;8;;
+284;"Faculdade de Pindamonhangaba (FAPI)";SP;Privada;;;194;12.17;326;4.13;102;3.29;272;4.75;;
+285;"Faculdade Santa Emília";PE;Privada;;;195;12.15;380;3.48;55;3.62;247;5.05;;
+286;"Faculdade La Salle";AM;Privada;;;197;12.11;473;2.37;323;1.74;1;8;;
+287;"Instituto Nacional de Telecomunicações (INATEL)";MG;Privada;0;0;199;12.05;208;5.53;291;1.97;288;4.55;;
+288;"Instituto Federal de Educação, Ciência e Tecnologia do Sertão Pernambucano";PE;Pública;;;202;12.04;664;0.1;9;3.94;1;8;;
+289;"Centro Universitário Jorge Amado (UNIJORGE)";BA;Privada;0;0;203;12.03;160;6.1;245;2.29;364;3.64;;
+290;"Faculdade Estácio de Alagoas (FAL)";AL;Privada;;;204;12.02;425;2.95;419;1.07;1;8;;
+291;"Faculdade do Vale do Itajaí Mirim (FAVIM)";SC;Privada;;;206;12;449;2.66;106;3.26;161;6.08;;
+292;"Centro Universitário Carioca (UNICARIOCA)";RJ;Privada;0;0;208;11.99;32;7.63;492;0.56;351;3.8;;
+293;"Faculdade Santa Lúcia (FCACSL)";SP;Privada;;;209;11.96;300;4.44;162;2.87;280;4.65;;
+294;"Faculdade Doutor Francisco Maeda (FAFRAM)";SP;Privada;;;210;11.94;182;5.84;172;2.8;392;3.3;;
+295;"Centro Universitário Antônio Eufrásio de Toledo de Presidente Prudente (FIAETPP)";SP;Privada;;;211;11.89;374;3.55;72;3.5;264;4.84;;
+296;"Universidade Estadual do Maranhão (UEMA)";MA;Pública;0;0;213;11.83;263;4.88;192;2.66;310;4.29;;
+297;"Faculdade Politécnica de Campinas (POLICAMP)";SP;Privada;0;0;217;11.76;523;1.78;17;3.89;160;6.09;;
+298;"Centro Universitário do Planalto de Araxá (UNIARAXÁ)";MG;Privada;;;218;11.75;385;3.42;225;2.43;176;5.9;;
+299;"Universidade do Estado de Mato Grosso (UNEMAT)";MT;Pública;0;0;219;11.74;486;2.22;355;1.52;1;8;;
+300;"Faculdade de Educação São Luís (FESL)";SP;Privada;;;220;11.74;290;4.55;373;1.39;184;5.8;;
+300;"Escola Superior de Tecnologia e Educação de Rio Claro (ESRC)";SP;Privada;;;220;11.74;301;4.42;386;1.3;166;6.02;;
+302;"Centro Universitário La Salle do Rio de Janeiro (UNILASALLE/RJ)";RJ;Privada;;;223;11.7;94;6.89;124;3.14;528;1.67;;
+303;"Faculdade de Tecnologia e Ciências de Itabuna (FTC)";BA;Privada;;;225;11.63;400;3.24;516;0.39;1;8;;
+304;"Escola Superior de Engenharia e Gestão de São Paulo (ESEG)";SP;Privada;;;227;11.62;69;7.19;;;298;4.43;;
+305;"Faculdade Delta (FACULDADE DELTA)";GO;Privada;;;228;11.6;358;3.74;155;2.92;256;4.94;;
+306;"Instituto Luterano de Ensino Superior de Porto Velho (ULBRA ILES)";RO;Privada;;;230;11.58;542;1.55;282;2.03;1;8;;
+306;"Centro Universitário Dinâmica das Cataratas (UDC)";PR;Privada;0;0;230;11.58;373;3.57;72;3.5;292;4.51;;
+308;"Faculdade Integral Diferencial (FACID)";PI;Privada;0;0;233;11.53;386;3.41;241;2.32;184;5.8;;
+309;"Faculdade de Ciência e Tecnologia de Montes Claros (FACIT)";MG;Privada;;;234;11.52;215;5.45;209;2.54;373;3.53;;
+310;"Instituto Municipal de Ensino Superior de Assis (IMESA)";SP;Pública;;;236;11.46;206;5.56;;;176;5.9;;
+311;"Instituto Federal de Educação, Ciência e Tecnologia do Norte de Minas Gerais (IFNMG)";MG;Pública;0;0;237;11.45;383;3.45;;;1;8;;
+312;"Universidade Federal de Roraima (UFRR)";RR;Pública;0;0;238;11.44;540;1.57;305;1.87;1;8;;
+313;"Faculdade Satc (FASATC)";SC;Privada;;;241;11.4;113;6.67;;;273;4.73;;
+314;"Faculdade Ubaense Ozanam Coelho (FAGOC)";MG;Privada;0;0;242;11.37;211;5.5;142;3.01;429;2.86;;
+315;"Faculdade de Tecnologia e Ciências de Jequié (FTC)";BA;Privada;;;243;11.35;439;2.78;212;2.52;163;6.05;;
+316;"Faculdade de Tecnologia e Ciências de Feira de Santana (FTC)";BA;Privada;0;0;244;11.33;518;1.84;359;1.49;1;8;;
+317;"Instituto Federal de Educação, Ciência e Tecnologia de Minas Gerais (IFMG)";MG;Pública;;;247;11.19;457;2.56;224;2.44;152;6.19;;
+318;"Instituto Federal de Educação, Ciência e Tecnologia do Tocantins (IFTO)";TO;Pública;;;248;11.19;653;0.23;149;2.96;1;8;;
+319;"Faculdade Tobias Barreto (FTB)";SE;Privada;;;249;11.17;76;7.11;;;329;4.06;;
+320;"Instituto Federal de Educação, Ciência e Tecnologia de Goiás (IFG)";GO;Pública;;;251;11.14;409;3.14;;;1;8;;
+321;"Faculdade Cenecista Nossa Senhora dos Anjos (FACENSA)";RS;Privada;;;252;11.13;252;5.01;92;3.36;437;2.76;;
+322;"Faculdade de Educação São Francisco (FAESF)";MA;Privada;;;255;11.01;442;2.74;533;0.27;1;8;;
+323;"Faculdade do Litoral Sul Paulista (FALS)";SP;Privada;;;256;10.99;343;3.92;381;1.34;190;5.73;;
+324;"Faculdade Professor Miguel Ângelo da Silva Santos (FEMASS)";RJ;Pública;;;258;10.93;335;4.02;102;3.29;366;3.62;;
+325;"Escola Superior Batista do Amazonas (ESBAM)";AM;Privada;0;0;261;10.88;111;6.69;512;0.42;353;3.77;;
+326;"Faculdades Integradas de Paranaíba (FIPAR)";MS;Privada;;;262;10.85;446;2.69;549;0.16;1;8;;
+327;"Escola Superior de Tecnologia e Educação de Porto Ferreira (ESPF)";SP;Privada;;;263;10.84;284;4.63;459;0.79;216;5.42;;
+328;"Faculdade de Tecnologia e Ciências de Vitória da Conquista (FTC)";BA;Privada;;;265;10.79;435;2.83;214;2.51;213;5.45;;
+329;"Faculdade de Tecnologia Ibta Campinas (IBTA)";SP;Privada;;;266;10.78;186;5.79;202;2.59;467;2.4;;
+330;"Instituto Federal de Educação, Ciência e Tecnologia Sul-Rio-Grandense (IFSul)";RS;Pública;0;0;267;10.76;256;4.96;;;184;5.8;;
+330;"Faculdade de Pimenta Bueno (FAP)";RO;Privada;;;267;10.76;447;2.68;239;2.33;188;5.75;;
+332;"Faculdade Metropolitana de Rio do Sul (FAMESUL)";SC;Privada;;;269;10.74;364;3.67;261;2.18;260;4.89;;
+333;"Centro Universitário Tupy";SC;Privada;;;270;10.7;391;3.35;104;3.28;328;4.07;;
+334;"Faculdade de Estudos Avançados do Pará (FEAPA)";PA;Privada;;;271;10.68;298;4.46;406;1.16;246;5.06;;
+335;"Centro Universitário Claretiano (CEUCLAR)";SP;Privada;;;273;10.64;328;4.1;105;3.27;395;3.27;;
+336;"Faculdade Educacional de Francisco Beltrão (FEFB)";PR;Privada;;;274;10.63;515;1.87;82;3.43;223;5.33;;
+337;"Faculdade de Administração de Empresas (FACAMP)";SP;Privada;;;275;10.63;256;4.96;;;195;5.67;0;0
+338;"Universidade Braz Cubas (UBC)";SP;Privada;0;0;276;10.56;137;6.38;486;0.6;369;3.58;;
+339;"Instituto de Educação Superior Raimundo Sá (IESRSA)";PI;Privada;;;277;10.54;468;2.43;556;0.11;1;8;;
+340;"Faculdade do Centro Leste (UCL)";ES;Privada;;;279;10.52;470;2.41;79;3.45;279;4.66;;
+340;"Faculdade Sul Brasil (FASUL)";PR;Privada;;;279;10.52;535;1.63;34;3.77;241;5.12;;
+342;"Faculdade Mercúrio (FAMERC)";RJ;Privada;;;281;10.5;218;5.41;231;2.39;442;2.7;;
+343;"Centro Universitário do Espírito Santo (UNESC)";ES;Privada;0;0;284;10.43;345;3.9;99;3.31;399;3.22;;
+344;"Instituto Master De Ensino Presidente Antônio Carlos (IMEPAC)";MG;Privada;;;286;10.41;194;5.7;268;2.13;452;2.58;;
+344;"Faculdade Anglo-Americano (FAA)";PR;Privada;;;286;10.41;240;5.15;361;1.48;352;3.78;;
+346;"Faculdade Presidente Antônio Carlos de Teófilo Otoni (FUNEES Teófilo Otoni)";MG;Privada;;;288;10.39;582;1.07;383;1.32;1;8;;
+347;"Centro Universitário de Patos de Minas (UNIPAM)";MG;Privada;0;0;292;10.2;356;3.77;52;3.64;435;2.79;;
+348;"Centro Universitário Ritter dos Reis (UNIRITTER)";RS;Privada;;;293;10.17;99;6.83;178;2.76;619;0.58;;
+349;"Faculdade Fortium";DF;Privada;;;295;10.1;255;4.97;520;0.36;270;4.77;;
+350;"Centro Universitário Unifafibe (FAFIBE)";SP;Privada;;;297;10.05;319;4.21;174;2.79;413;3.05;;
+351;"Centro Universitário Estácio da Bahia (FIB)";BA;Privada;;;298;10.05;203;5.59;403;1.18;394;3.28;;
+352;"Universidade Estadual de Goiás (UEG)";GO;Pública;0;0;299;10.03;669;0.04;288;1.99;1;8;;
+353;"Centro Universitário Herminio Ometto (UNIARARAS)";SP;Privada;;;300;9.96;193;5.71;149;2.96;560;1.29;;
+354;"Universidade Católica de Petrópolis (UCP)";RJ;Privada;0;0;301;9.93;222;5.37;285;2.01;455;2.55;;
+355;"Centro Universitário de Lins (UNILINS)";SP;Privada;;;302;9.91;157;6.14;522;0.35;382;3.42;;
+355;"Faculdade de Ciências Aplicadas e Sociais de Petrolina (FACAPE)";PE;Pública;;;302;9.91;568;1.24;476;0.67;1;8;;
+357;"Faculdade Ingá";PR;Privada;;;304;9.9;348;3.86;271;2.11;340;3.93;;
+358;"Centro Universitário Anhanguera de Niterói (UNIAN)";RJ;Privada;;;306;9.88;217;5.43;508;0.45;334;4;;
+359;"Escola de Ensino Superior Fabra (FABRA)";ES;Privada;;;307;9.86;209;5.52;;;306;4.34;;
+359;"Universidade de Cruz Alta (UNICRUZ)";RS;Privada;0;0;307;9.86;117;6.62;419;1.07;486;2.17;;
+361;"Faculdade Adventista de Hortolândia (FAH)";SP;Privada;;;309;9.83;296;4.48;356;1.51;347;3.84;;
+362;"Centro Universitário Capital (UNICAPITAL)";SP;Privada;;;310;9.79;370;3.6;363;1.46;273;4.73;;
+363;"Faculdade de Ciências Sociais e Aplicadas do Paraná (FACET)";PR;Privada;;;311;9.76;223;5.35;2;3.99;632;0.42;;
+364;"Faculdade Barretos (FB)";SP;Privada;;;312;9.69;512;1.91;115;3.2;286;4.58;;
+365;"Centro Universitário Leonardo da Vinci (UNIASSELVI)";SC;Privada;0;0;313;9.66;501;2.04;116;3.19;298;4.43;;
+366;"Centro Universitário Campos de Andrade (UNIANDRADE)";PR;Privada;;;314;9.63;221;5.38;528;0.31;339;3.94;;
+367;"Faculdade Anhanguera de Belo Horizonte";MG;Privada;0;0;316;9.6;333;4.04;376;1.37;318;4.19;;
+368;"Centro Universitário de Itajubá (FEPI)";MG;Privada;;;317;9.6;371;3.59;346;1.58;298;4.43;;
+369;"União das Faculdades dos Grandes Lagos (UNILAGO)";SP;Privada;;;318;9.59;511;1.92;176;2.77;259;4.9;;
+370;"Universidade Severino Sombra (USS)";RJ;Privada;;;319;9.57;229;5.28;89;3.38;591;0.91;0;0
+371;"Faculdade de Tecnologia de São José dos Campos (ETEP)";SP;Privada;0;0;320;9.56;141;6.33;342;1.61;532;1.62;;
+372;"Faculdade Metropolitana de Blumenau (FAMEBLU)";SC;Privada;;;322;9.55;492;2.15;118;3.18;316;4.22;;
+373;"Faculdade Campo Limpo Paulista (FACCAMP)";SP;Privada;0;0;323;9.52;134;6.41;455;0.82;476;2.29;;
+374;"Faculdade de Minas Bh (FAMINAS-BH)";MG;Privada;;;324;9.5;197;5.66;332;1.68;487;2.16;;
+375;"Instituto de Educação Superior da Paraíba (IESP)";PB;Privada;;;326;9.44;428;2.91;286;2;290;4.53;;
+376;"Instituto de Ensino Superior de Alagoas (IESA)";AL;Privada;0;0;327;9.44;325;4.14;532;0.28;249;5.02;;
+377;"Faculdade de Tecnologia e Ciências (FTC SALVADOR)";BA;Privada;;;328;9.43;496;2.1;222;2.45;261;4.88;;
+378;"Faculdade Infórium de Tecnologia (FIT)";MG;Privada;;;329;9.42;413;3.09;58;3.6;440;2.73;;
+378;"Centro Universitário de Araraquara (UNIARA)";SP;Privada;;;329;9.42;210;5.51;405;1.17;439;2.74;;
+380;"Faculdades Integradas de Três Lagoas (AEMS)";MS;Privada;;;331;9.41;228;5.29;;;324;4.12;;
+380;"Universidade Estadual do Vale do Acaraú (UVA)";CE;Pública;0;0;331;9.41;647;0.3;413;1.11;1;8;;
+382;"Faculdades Integradas de Taquara (FACCAT)";RS;Privada;0;0;334;9.38;225;5.33;25;3.83;649;0.22;;
+383;"Faculdade São Paulo (FSP)";RO;Privada;;;335;9.38;524;1.77;259;2.19;216;5.42;;
+384;"Universidade Ibirapuera (UNIB)";SP;Privada;;;336;9.36;227;5.31;570;0.01;331;4.04;;
+385;"Faculdades Integradas de Fernandópolis (FIFE)";SP;Privada;0;0;337;9.32;351;3.83;443;0.9;285;4.59;;
+386;"Universidade do Vale do Sapucaí (UNIVÁS)";MG;Privada;;;339;9.31;378;3.51;256;2.21;368;3.59;;
+387;"Faculdade Educacional de Ponta Grossa (UNIÃO)";PR;Privada;;;340;9.3;563;1.3;;;1;8;;
+388;"Faculdades Adamantinenses Integradas (FAI)";SP;Pública;0;0;341;9.26;273;4.76;234;2.37;490;2.13;;
+389;"Centro Universitário Luterano de Ji-Paraná (CEULJI/ULBRA)";RO;Privada;0;0;343;9.16;596;0.91;254;2.23;166;6.02;;
+390;"Instituto Federal de Educação, Ciência e Tecnologia de Sergipe (IFS)";SE;Pública;;;344;9.13;577;1.13;;;1;8;;
+391;"Centro Universitário de Bauru";SP;Privada;;;345;9.11;324;4.15;;;254;4.96;;
+392;"Centro Universitário Central Paulista (UNICEP)";SP;Privada;;;346;9.1;56;7.34;536;0.25;541;1.51;;
+393;"Instituto Federal de Educação, Ciência e Tecnologia do Paraná (IFPR)";PR;Pública;;;347;9.09;651;0.25;452;0.84;1;8;;
+393;"Centro Universitário do Leste de Minas Gerais (UNILESTEMG)";MG;Privada;;;347;9.09;390;3.36;111;3.23;459;2.5;;
+395;"Centro Universitário Moacyr Sreder Bastos (UNIMSB)";RJ;Privada;;;349;9.07;283;4.64;;;298;4.43;;
+395;"Faculdade de Minas (FAMINAS)";MG;Privada;0;0;349;9.07;281;4.66;469;0.72;360;3.69;;
+397;"Instituto Baiano de Ensino Superior (IBES)";BA;Privada;;;351;9.03;387;3.4;359;1.49;322;4.14;;
+398;"Faculdades Integradas do Brasil (FACBRASIL)";PR;Privada;0;0;352;9.02;270;4.79;409;1.14;410;3.09;;
+399;"Faculdade Cotemig (COTEMIG)";MG;Privada;;;353;8.99;536;1.62;31;3.79;369;3.58;;
+400;"Universidade Norte do Paraná (UNOPAR)";PR;Privada;0;0;354;8.98;589;0.99;222;2.45;206;5.54;0;0
+401;"Faculdade de Engenharia de Sorocaba (FACENS)";SP;Privada;0;0;356;8.96;267;4.83;136;3.05;577;1.08;;
+402;"Faculdade Ibgen - Instituto Brasileiro de Gestão de Negócios (IBGEN)";RS;Privada;;;358;8.94;172;5.96;181;2.74;647;0.24;;
+403;"Faculdade Meta (FAMETA)";AC;Privada;;;359;8.89;452;2.62;466;0.74;207;5.53;;
+404;"Universidade Nilton Lins (UNINILTONLINS)";AM;Privada;0;0;361;8.79;606;0.79;;;1;8;;
+405;"Centro Universitário Unirg (UNIRG)";TO;Pública;0;0;362;8.76;612;0.72;566;0.04;1;8;;
+405;"Universidade Estadual Do Paraná (UNESPAR)";PR;Pública;;;362;8.76;608;0.76;;;1;8;;
+407;"Faculdade de Educação Superior do Paraná (FESPPR)";PR;Privada;;;365;8.73;306;4.36;69;3.52;596;0.85;0;0
+408;"Faculdade Eniac (ENIAC)";SP;Privada;;;366;8.69;352;3.82;391;1.27;367;3.6;;
+408;"Faculdade Politec (FAP)";SP;Privada;;;366;8.69;402;3.22;;;212;5.47;;
+410;"Faculdades Integradas Barros Melo (FIBAM)";PE;Privada;;;368;8.63;381;3.47;77;3.47;526;1.69;;
+410;"Faculdades Integradas da União Educacional do Planalto Central (FACIPLAC)";DF;Privada;;;368;8.63;520;1.81;251;2.25;287;4.57;;
+412;"Centro Universitário Metodista (IPA)";RS;Privada;;;370;8.61;154;6.18;333;1.67;604;0.76;;
+412;"Instituto de Ensino Superior Cenecista (INESC)";MG;Privada;;;370;8.61;420;3;272;2.1;375;3.51;;
+414;"Centro Universitário Senac (SENACSP)";SP;Privada;0;0;372;8.59;294;4.51;201;2.6;544;1.48;0;0
+414;"Instituto Paraibano de Ensino Renovado (INPER)";PB;Privada;;;372;8.59;292;4.53;510;0.43;365;3.63;;
+416;"Universidade Metodista de Piracicaba (UNIMEP)";SP;Privada;0;0;374;8.58;189;5.76;281;2.04;602;0.78;;
+417;"Faculdade de Economia e Processamento de Dados de Foz do Iguaçu (FEPI)";PR;Privada;;;376;8.56;619;0.63;238;2.34;202;5.59;;
+418;"Faculdade Verde Norte (FAVENORTE)";MG;Privada;;;377;8.55;626;0.55;;;1;8;;
+419;"Faculdade Orígenes Lessa (FACOL)";SP;Privada;0;0;378;8.54;397;3.28;395;1.24;332;4.02;;
+420;"Faculdade Nova Roma (FNR)";PE;Privada;0;0;379;8.53;231;5.26;182;2.73;622;0.54;;
+421;"Faculdade de Ensino Superior de Catalão (FACULDADE CESUC)";GO;Privada;;;381;8.5;201;5.62;;;427;2.88;;
+422;"Faculdade Estácio do Recife (FIR)";PE;Privada;0;0;382;8.48;340;3.96;333;1.67;430;2.85;;
+423;"Faculdade de Ciências Humanas, Econômicas e da Saúde de Araguaína (FAHESA / ITPAC)";TO;Privada;;;384;8.43;499;2.06;353;1.53;264;4.84;;
+423;"Faculdades Integradas Campo-Grandenses (FIC)";RJ;Privada;;;384;8.43;247;5.07;510;0.43;423;2.93;;
+425;"Faculdade Educacional de Dois Vizinhos (FAED)";PR;Privada;;;386;8.42;552;1.43;129;3.1;343;3.89;;
+426;"Centro Universitário Facitec (FACITEC)";DF;Privada;;;387;8.4;220;5.39;339;1.63;552;1.38;;
+427;"Faculdade de Hortolândia (FACH)";SP;Privada;;;388;8.36;448;2.67;401;1.2;293;4.49;;
+428;"Universidade José do Rosário Vellano (UNIFENAS)";MG;Privada;;;389;8.35;398;3.27;309;1.84;397;3.24;;
+429;"Centro Universitário Adventista de São Paulo (UNASP)";SP;Privada;;;390;8.34;269;4.81;502;0.49;414;3.04;;
+429;"Universidade de Uberaba (UNIUBE)";MG;Privada;0;0;390;8.34;516;1.86;219;2.47;333;4.01;;
+429;"Universidade de Itaúna (UI)";MG;Privada;0;0;390;8.34;293;4.52;349;1.56;479;2.26;;
+432;"Faculdade Católica Salesiana do Espírito Santo";ES;Privada;;;393;8.32;347;3.88;5;3.97;628;0.47;;
+433;"Faculdade Cnec Campo Largo (FACECLA)";PR;Privada;;;394;8.31;332;4.05;448;0.87;385;3.39;;
+434;"Faculdade Barão do Rio Branco (FAB)";AC;Privada;;;397;8.28;321;4.19;479;0.65;381;3.44;;
+435;"Centro Universitário da Fundação Educacional de Barretos (UNIFEB)";SP;Privada;;;398;8.28;268;4.82;302;1.89;536;1.57;;
+435;"Centro de Ensino Superior Em Gestão, Tecnologia e Educação (FAI)";MG;Privada;0;0;398;8.28;478;2.31;19;3.87;492;2.1;;
+437;"Faculdade de Ribeirão Preto (AFARP)";SP;Privada;;;400;8.27;412;3.1;258;2.2;420;2.97;;
+438;"Faculdade Metodista Granbery (FMG)";MG;Privada;0;0;401;8.25;318;4.22;169;2.82;566;1.21;;
+439;"Universidade Salgado de Oliveira (UNIVERSO)";RJ;Privada;0;0;402;8.2;377;3.52;229;2.4;477;2.28;;
+440;"Faculdade Estácio Cotia (FAAC)";SP;Privada;;;403;8.18;388;3.39;563;0.06;273;4.73;;
+440;"Faculdades Integradas Ipep (FIPEP)";SP;Privada;;;403;8.18;539;1.59;423;1.04;205;5.55;;
+442;"Faculdade São Vicente (FASVIPA)";AL;Privada;;;405;8.17;415;3.06;556;0.11;251;5;;
+443;"Faculdade Mater Dei (FMD)";PR;Privada;0;0;406;8.16;581;1.09;276;2.07;251;5;;
+444;"Faculdade Educacional de Araucária (FACEAR)";PR;Privada;;;407;8.13;489;2.18;108;3.25;442;2.7;;
+445;"Faculdade de Ciências Econômicas, Administrativas e da Computação Dom Bosco (FCEACDB)";RJ;Privada;0;0;408;8.09;394;3.31;316;1.79;418;2.99;;
+446;"Centro Universitário de Votuporanga (UNIFEV)";SP;Privada;;;409;8.08;419;3.02;162;2.87;485;2.19;;
+447;"Faculdades Integradas de Bauru (FIB)";SP;Privada;0;0;410;8.06;667;0.06;;;1;8;;
+448;"Centro Universitário Barão de Mauá (CBM)";SP;Privada;0;0;412;8;265;4.85;523;0.34;433;2.81;;
+449;"Centro Universitário Fieo (UNIFIEO)";SP;Privada;0;0;413;7.96;170;5.99;341;1.62;638;0.35;;
+450;"Centro Universitário do Instituto Mauá de Tecnologia (CEUN-IMT)";SP;Privada;0;0;414;7.95;110;6.7;;;563;1.25;0;0
+450;"Centro Universitário das Faculdades Associadas de Ensino (UNIFAE)";SP;Pública;0;0;414;7.95;219;5.4;309;1.84;608;0.71;;
+452;"Centro Universitário de Anápolis (UNIEVANGÉLICA)";GO;Privada;0;0;416;7.94;309;4.33;346;1.58;498;2.03;;
+453;"Faculdade Anglo-Americano de Caxias do Sul (FAACS)";RS;Privada;;;417;7.93;541;1.56;379;1.35;249;5.02;;
+454;"Faculdade de Tecnologia de São Vicente (FATEF)";SP;Privada;;;419;7.9;336;4.01;503;0.48;383;3.41;;
+455;"Faculdade Estácio Euro- Panamericana de Humanidades e Tecnologias (EUROPAN)";SP;Privada;;;420;7.88;431;2.87;463;0.76;313;4.25;;
+455;"Faculdade Metropolitana de Curitiba (FAMEC)";PR;Privada;;;420;7.88;434;2.84;328;1.71;390;3.33;;
+457;"Faculdade de São Lourenço (FASAMA)";MG;Privada;;;422;7.87;624;0.57;375;1.38;174;5.92;;
+458;"Faculdade Alvorada de Tecnologia e Educação de Maringá (FACULDADE ALVORADA)";PR;Privada;;;423;7.85;545;1.51;82;3.43;425;2.91;;
+459;"Universidade Tuiuti do Paraná (UTP)";PR;Privada;0;0;424;7.84;329;4.09;216;2.49;562;1.26;;
+460;"Instituto Superior do Litoral do Paraná (ISULPAR)";PR;Privada;;;425;7.82;406;3.17;553;0.13;291;4.52;;
+461;"Centro Universitário Augusto Motta (UNISUAM)";RJ;Privada;0;0;426;7.76;312;4.29;476;0.67;434;2.8;;
+462;"Universidade do Contestado (UNC)";SC;Pública;0;0;428;7.75;519;1.82;461;0.78;238;5.15;;
+463;"Faculdade de Ensino Superior do Centro do Paraná (UCP)";PR;Privada;0;0;429;7.73;529;1.71;;;166;6.02;;
+464;"Faculdade Sul-Americana (FASAM)";GO;Privada;;;430;7.73;272;4.77;498;0.52;464;2.44;;
+465;"Libertas - Faculdades Integradas (LIBERTAS)";MG;Privada;;;431;7.72;483;2.25;55;3.62;513;1.85;;
+466;"Faculdade Una de Contagem (FUNAC)";MG;Privada;;;436;7.62;284;4.63;;;418;2.99;;
+467;"Faculdade de Informática de Ouro Preto do Oeste (FIOURO)";RO;Privada;;;437;7.56;565;1.28;366;1.44;264;4.84;;
+468;"Faculdade Unida de Suzano (UNISUZ)";SP;Privada;;;438;7.53;367;3.64;379;1.35;456;2.54;;
+469;"Faculdade de Tecnologia São Francisco (FATESF)";SP;Privada;;;439;7.52;143;6.31;570;0.01;567;1.2;;
+470;"Faculdade Fae São José dos Pinhais";PR;Privada;0;0;440;7.48;241;5.14;;;472;2.34;;
+471;"Universidade do Estado de Minas Gerais (UEMG)";MG;Pública;0;0;441;7.47;488;2.19;513;0.41;262;4.87;;
+472;"Faculdade de Jaguariúna (FAJ)";SP;Privada;;;443;7.47;456;2.58;119;3.17;524;1.72;;
+473;"Faculdades Integradas de Patos (FIP)";PB;Privada;;;444;7.44;338;3.98;221;2.46;584;1;;
+474;"Centro Universitário Luterano de Santarém (CEULS)";PA;Privada;;;445;7.41;604;0.81;431;0.99;200;5.61;;
+475;"Centro Universitário Toledo (UNITOLEDO)";SP;Privada;0;0;446;7.39;458;2.55;;;264;4.84;;
+476;"Faculdade Anhanguera de Indaiatuba";SP;Privada;;;447;7.3;533;1.66;338;1.64;334;4;;
+477;"Centro Universitário Sant´Anna (UNISANT'ANNA)";SP;Privada;;;448;7.28;237;5.19;566;0.04;496;2.05;;
+477;"Faculdade Carlos Drummond de Andrade (FCDA)";SP;Privada;;;448;7.28;440;2.77;451;0.85;362;3.66;;
+479;"Faculdade Lourenço Filho (FLF)";CE;Privada;;;450;7.28;320;4.2;325;1.73;555;1.35;;
+480;"Faculdade Pitágoras de Votorantim - Sorocaba";SP;Privada;;;451;7.25;561;1.32;560;0.08;180;5.85;;
+480;"Centro Universitário do Sul de Minas (UNIS-MG)";MG;Privada;0;0;451;7.25;501;2.04;295;1.94;395;3.27;;
+482;"Faculdade Joaquim Nabuco - Paulista (FJN)";PE;Privada;;;454;7.21;266;4.84;319;1.77;617;0.6;;
+482;"Faculdade do Pantanal Matogrossense (FAPAN)";MT;Privada;;;454;7.21;525;1.75;550;0.15;225;5.31;;
+484;"Centro Universitário Assunção (UNIFAI)";SP;Privada;0;0;456;7.2;185;5.81;568;0.03;554;1.36;;
+485;"Católica de Santa Catarina em Jaraguá do Sul (Católica em Jaraguá)";SC;Privada;0;0;457;7.18;376;3.53;;;363;3.65;;
+486;"Faculdade de Ciências Administrativas e de Tecnologia (FATEC)";RO;Privada;0;0;458;7.17;522;1.79;473;0.69;277;4.69;;
+487;"Centro de Ensino Superior de Juiz de Fora (CES/JF)";MG;Privada;0;0;459;7.16;279;4.69;289;1.98;626;0.49;;
+488;"Instituto Luterano de Ensino Superior de Itumbiara (ILES)";GO;Privada;;;460;7.14;640;0.38;475;0.68;161;6.08;;
+489;"Faculdade Presidente Antônio Carlos de Conselheiro Lafaiete";MG;Privada;;;462;7.09;363;3.68;482;0.63;436;2.78;;
+490;"Faculdades Spei (FACSPEI)";PR;Privada;;;463;7.08;444;2.72;152;2.94;549;1.42;;
+491;"Faculdade São Francisco de Assis (UNIFIN)";RS;Privada;;;464;7.07;174;5.94;;;573;1.13;;
+492;"Faculdades de Dracena";SP;Privada;;;465;7.04;507;1.97;195;2.64;465;2.43;;
+493;"Centro Universitário de Rio Preto (UNIRP)";SP;Privada;0;0;466;7.04;258;4.94;345;1.59;625;0.51;;
+494;"Faculdade de Duque de Caxias (FDC)";RJ;Privada;;;467;7.01;360;3.72;358;1.5;518;1.79;;
+495;"Universidade Estadual de Roraima (UERR)";RR;Pública;0;0;468;7.01;591;0.97;516;0.39;197;5.65;;
+496;"Universidade de Rio Verde (FESURV)";GO;Pública;0;0;469;7;551;1.44;545;0.19;220;5.37;;
+497;"Faculdade Salesiana Maria Auxiliadora (FSMA)";RJ;Privada;;;471;6.99;437;2.8;84;3.42;603;0.77;;
+498;"Instituto de Ensino Superior da Grande Florianópolis (IESGF)";SC;Privada;;;472;6.98;583;1.06;445;0.89;248;5.03;;
+499;"Escola de Engenharia de Piracicaba (EEP/FUMEP)";SP;Pública;0;0;473;6.92;140;6.34;495;0.54;664;0.04;;
+499;"Faculdade Seama (SEAMA)";AP;Privada;;;473;6.92;472;2.39;318;1.78;438;2.75;;
+499;"Centro Universitário Anhangüera (UNIFIAN)";SP;Privada;;;473;6.92;584;1.05;425;1.03;264;4.84;;
+499;"Faculdade Metropolitana da Grande Fortaleza (FAMETRO)";CE;Privada;;;473;6.92;405;3.18;;;356;3.74;;
+503;"Facudade Ieducare (FIED)";CE;Privada;;;477;6.91;649;0.27;382;1.33;225;5.31;;
+504;"Centro Universitário - Católica de Santa Catarina Em Joinville (Católica em Joinvile)";SC;Privada;;;479;6.87;344;3.91;;;421;2.96;;
+505;"Centro Universitário do Norte Paulista (UNORP)";SP;Privada;0;0;481;6.81;549;1.47;466;0.74;284;4.6;;
+506;"Faculdades Integradas de Diamantino (FID)";MT;Privada;;;482;6.79;645;0.32;435;0.96;208;5.51;;
+507;"Faculdade Pan Amazônia (FAPAN)";PA;Privada;;;483;6.79;548;1.48;;;225;5.31;;
+508;"Faculdade de Apucarana (FAP)";PR;Privada;;;484;6.77;611;0.73;456;0.81;232;5.23;;
+509;"Faculdades Integradas Teresa D´Ávila (FATEA)";SP;Privada;;;485;6.74;253;5;;;522;1.74;;
+509;"Centro Universitário Anhanguera de São Paulo";SP;Privada;;;485;6.74;481;2.28;;;296;4.46;;
+511;"Faculdade Gennari e Peartree (FGP)";SP;Privada;;;487;6.72;503;2.02;131;3.09;533;1.61;;
+512;"Faculdade Independente do Nordeste (FAINOR)";BA;Privada;0;0;488;6.71;417;3.04;366;1.44;481;2.23;;
+513;"Universidade Alto Vale do Rio do Peixe (UNIARP)";SC;Pública;;;490;6.61;445;2.71;493;0.55;388;3.35;;
+514;"Faculdades Integradas Claretianas (FIC)";SP;Privada;;;491;6.56;418;3.03;553;0.13;384;3.4;;
+514;"Universidade Estadual de Mato Grosso do Sul (UEMS)";MS;Pública;;;491;6.56;375;3.54;362;1.47;538;1.55;;
+516;"Universidade da Região da Campanha (URCAMP)";RS;Privada;;;493;6.54;438;2.79;465;0.75;417;3;;
+517;"Centro Universitário de Jales (UNIJALES)";SP;Privada;;;494;6.5;555;1.4;535;0.26;264;4.84;;
+518;"Centro Universitário de Ensino Superior do Amazonas (CIESA)";AM;Privada;0;0;495;6.49;459;2.54;538;0.24;358;3.71;;
+519;"Faculdade Santíssimo Sacramento (FSSS)";BA;Privada;;;497;6.47;432;2.86;559;0.09;374;3.52;;
+520;"Faculdade de Americana (FAM)";SP;Privada;;;498;6.45;304;4.39;411;1.13;590;0.93;;
+521;"Faculdade das Atividades Empresariais de Teresina (FAETE)";PI;Privada;;;499;6.4;493;2.13;235;2.36;508;1.91;;
+522;"Centro Universitário de Barra Mansa (UBM)";RJ;Privada;0;0;500;6.4;295;4.5;463;0.76;572;1.14;;
+523;"Instituto de Ciências Exatas (UNEB)";DF;Privada;;;504;6.36;578;1.12;418;1.08;321;4.16;;
+524;"Faculdades Integradas de Araraquara (FIAR)";SP;Privada;;;505;6.36;207;5.54;529;0.3;624;0.52;;
+525;"Centro Universitário Anhanguera de Campo Grande";MS;Privada;;;506;6.35;546;1.5;459;0.79;329;4.06;;
+526;"Faculdade Católica Rainha do Sertão (FCRS)";CE;Privada;;;507;6.34;509;1.94;386;1.3;409;3.1;;
+527;"Faculdade Santa Maria (FSM)";PE;Privada;;;508;6.3;361;3.71;469;0.72;511;1.87;;
+527;"Faculdade Joaquim Nabuco Recife (FJN)";PE;Privada;;;508;6.3;372;3.58;388;1.29;548;1.43;;
+529;"Unidade de Ensino Superior Expoente (UNIEXP)";PR;Privada;;;510;6.21;410;3.12;132;3.08;666;0.01;;
+530;"Faculdade de Ciências Exatas e Tecnológicas Santo Agostinho (FACET)";MG;Privada;;;511;6.2;508;1.96;126;3.12;574;1.12;;
+531;"Instituto Pernambucano de Ensino Superior (IPESU)";PE;Privada;;;512;6.18;317;4.23;398;1.22;606;0.73;;
+532;"União das Escolas do Grupo Faimi de Educação (FAIMI)";SP;Privada;;;514;6.13;526;1.74;496;0.53;346;3.86;;
+533;"Faculdade Horizonte (FACHORIZONTE)";DF;Privada;;;516;6.1;284;4.63;;;545;1.47;;
+534;"Faculdades Integradas Associação de Ensino de Santa Catarina (FASSESC)";SC;Privada;;;517;6.07;284;4.63;;;547;1.44;;
+534;"Faculdade Estácio do Pará (FAP)";PA;Privada;0;0;517;6.07;484;2.24;;;348;3.83;;
+536;"Centro Técnico-Educacional Superior do Oeste Paranaense (CTESOP)";PR;Privada;;;519;6.06;569;1.23;343;1.6;398;3.23;;
+537;"Faculdade Metodista de Santa Maria (FAMES)";RS;Privada;;;520;6.04;346;3.89;;;488;2.15;;
+537;"Faculdades Integradas Campos Salles (FICS)";SP;Privada;;;520;6.04;302;4.41;348;1.57;662;0.06;;
+539;"Faculdades Integradas Santa Cruz de Curitiba (FARESC)";PR;Privada;0;0;522;6.03;454;2.6;249;2.26;570;1.17;;
+540;"Faculdade Zacarias de Góes (FAZAG)";BA;Privada;;;523;6.02;641;0.37;;;197;5.65;;
+541;"Faculdade Cenecista de Varginha (FACECA)";MG;Privada;0;0;524;6.02;414;3.08;422;1.05;510;1.89;;
+542;"Faculdade Sete de Setembro (FASETE)";BA;Privada;0;0;525;6;650;0.26;363;1.46;311;4.28;;
+543;"Centro Universitário de Brusque (UNIFEBE)";SC;Privada;;;526;5.99;411;3.11;274;2.09;601;0.79;;
+544;"Faculdade de Tecnologia Ibta (IBTA)";SP;Privada;0;0;527;5.98;463;2.49;269;2.12;553;1.37;;
+545;"Centro Universitário do Cerrado-Patrocínio (UNICERP)";MG;Privada;;;529;5.97;359;3.73;533;0.27;503;1.97;;
+546;"Centro Universitário de Formiga (UNIFORMG)";MG;Privada;;;530;5.95;423;2.97;205;2.57;633;0.41;;
+546;"Faculdade Piauiense (FAP)";PI;Privada;;;530;5.95;379;3.49;299;1.91;621;0.55;;
+546;"Faculdade Internacional da Paraíba (FPB)";PB;Privada;;;530;5.95;284;4.63;;;557;1.32;;
+549;"Faculdade de Ciências e Tecnologia de Birigui (FATEB)";SP;Pública;;;534;5.94;248;5.06;490;0.57;641;0.31;;
+550;"Centro Regional Universitário de Espírito Santo do Pinhal (UNIPINHAL)";SP;Privada;;;535;5.93;453;2.61;299;1.91;550;1.41;;
+551;"Faculdade de Viçosa (FDV)";MG;Privada;0;0;536;5.92;455;2.59;138;3.04;643;0.29;;
+552;"Faculdades Integradas do Vale do Iguaçu";PR;Privada;0;0;537;5.91;407;3.16;433;0.97;519;1.78;;
+553;"Universidade Iguaçu (UNIG)";RJ;Privada;;;538;5.88;514;1.88;;;334;4;;
+554;"Faculdade Paraense de Ensino (FAPEN)";PA;Privada;;;540;5.86;627;0.54;526;0.32;251;5;;
+554;"Faculdade Anhanguera de Negócios e Tecnologias da Informação (FACNET)";DF;Privada;;;540;5.86;621;0.61;353;1.53;357;3.72;;
+556;"Faculdade de Tecnologia Ibta - São José dos Campos (IBTA)";SP;Privada;;;542;5.75;357;3.76;540;0.22;520;1.77;0;0
+557;"Centro Universitário Módulo (MÓDULO)";SP;Privada;;;543;5.74;562;1.31;;;298;4.43;;
+557;"Faculdade da Cidade de Santa Luzia (FACSAL)";MG;Privada;;;543;5.74;476;2.34;204;2.58;599;0.82;;
+559;"Faculdade Jk - Unidade Ii - Gama";DF;Privada;;;545;5.72;534;1.65;543;0.2;345;3.87;;
+560;"Faculdade Brasil Central (FBC)";GO;Privada;;;546;5.69;421;2.99;;;442;2.7;;
+561;"Faculdade Anhanguera de Rio Claro";SP;Privada;;;547;5.67;531;1.68;446;0.88;408;3.11;;
+562;"Faculdades Integradas Mato-Grossenses de Ciências Sociais e Humanas (ICE)";MT;Privada;0;0;548;5.66;566;1.26;378;1.36;414;3.04;;
+563;"Faculdade Anhanguera de São Caetano (Fasc)";SP;Privada;;;549;5.63;553;1.42;356;1.51;442;2.7;;
+564;"Faculdade Anhanguera de Rondonópolis (FAR)";MT;Privada;0;0;550;5.61;638;0.41;443;0.9;309;4.3;;
+565;"Faculdade de Talentos Humanos (FACTHUS)";MG;Privada;;;552;5.58;587;1.01;272;2.1;461;2.47;;
+566;"Faculdade Esamc Sorocaba (ESAMC)";SP;Privada;0;0;553;5.57;592;0.95;236;2.35;478;2.27;;
+567;"Universidade de Santo Amaro (UNISA)";SP;Privada;0;0;554;5.54;467;2.44;480;0.64;462;2.46;;
+568;"Faculdade Anhanguera de Cascavel (FACIAP)";PR;Privada;;;555;5.53;494;2.12;416;1.09;474;2.32;;
+569;"Faculdade Michelangelo (MICHELANGELO)";DF;Privada;;;556;5.49;668;0.05;;;214;5.44;;
+570;"Faculdade Anhanguera de Limeira";SP;Privada;0;0;557;5.47;576;1.15;550;0.15;320;4.17;;
+571;"Faculdade Única De Ipatinga (FUNIP)";MG;Privada;;;558;5.44;573;1.18;154;2.93;556;1.33;;
+572;"Faculdade de Educação, Administração e Tecnologia de Ibaiti (FEATI)";PR;Privada;;;559;5.4;601;0.85;256;2.21;472;2.34;;
+573;"Faculdade de Ciências, Saúde, Exatas e Jurídicas de Teresina (FACULDADE CEUT)";PI;Privada;0;0;560;5.36;408;3.15;438;0.94;561;1.27;;
+574;"Faculdade de Ensino Superior Santa Barbara (FAESB)";SP;Privada;;;561;5.35;606;0.79;306;1.86;442;2.7;;
+575;"Faculdade Politécnica de Uberlândia (FPU)";MG;Privada;;;562;5.33;479;2.3;289;1.98;580;1.05;;
+576;"Faculdade Anhanguera de Jundiaí";SP;Privada;0;0;563;5.32;613;0.7;406;1.16;379;3.46;;
+576;"Faculdade Anhangüera de Ribeirão Preto";SP;Privada;;;563;5.32;504;2;;;391;3.32;;
+578;"Faculdade do Recife (FAREC)";PE;Privada;;;565;5.31;337;3.99;;;557;1.32;;
+579;"Faculdade Barão de Piratininga (AES)";SP;Privada;;;566;5.26;588;1;;;312;4.26;;
+580;"Faculdade Anhangüera de Piracicaba";SP;Privada;;;567;5.24;480;2.29;536;0.25;442;2.7;;
+581;"Faculdade Anhanguera de Valinhos";SP;Privada;;;568;5.21;595;0.92;442;0.91;386;3.38;;
+582;"Faculdade Maurício de Nassau de Belém (FMN de Belém)";PA;Privada;;;569;5.15;369;3.61;;;539;1.54;;
+582;"Faculdade Barddal (FB-SI)";SC;Privada;;;569;5.15;392;3.34;;;516;1.81;;
+584;"Faculdade de Presidente Prudente (FAPEPE)";SP;Privada;;;571;5.13;599;0.87;246;2.28;502;1.98;;
+585;"Faculdade Presbiteriana Gammon (FAGAMMON)";MG;Privada;;;572;5.12;349;3.85;436;0.95;640;0.32;;
+586;"Faculdade de Computação de Montes Claros (FACOMP)";MG;Privada;;;574;5.09;609;0.75;369;1.42;424;2.92;;
+587;"Faculdade Network (NWK)";SP;Privada;;;576;5.05;305;4.38;539;0.23;630;0.44;;
+588;"Faculdade Esamc Campinas (ESAMC)";SP;Privada;0;0;577;5.05;323;4.16;;;593;0.89;;
+589;"Faculdade Anhanguera de Santa Bárbara";SP;Privada;;;578;5.02;590;0.98;506;0.46;369;3.58;;
+589;"Faculdade Sumaré (ISES)";SP;Privada;;;578;5.02;623;0.58;244;2.3;489;2.14;;
+591;"Faculdade Presidente Antônio Carlos de Bom Despacho (FAPACBD)";MG;Privada;;;580;5.01;635;0.44;279;2.05;457;2.52;;
+592;"Faculdade Anhangüera de Campinas";SP;Privada;;;581;4.98;600;0.86;453;0.83;393;3.29;;
+592;"Faculdade Pinhalzinho (HORUS)";SC;Privada;;;581;4.98;521;1.8;462;0.77;466;2.41;;
+592;"Faculdade de Filosofia, Ciências e Letras de Duque de Caxias (FFCLDC)";RJ;Privada;;;581;4.98;254;4.98;;;;;;
+595;"Faculdade de São Paulo (FASP)";SP;Privada;;;584;4.98;554;1.41;563;0.06;375;3.51;;
+596;"Faculdades da Fundação de Ensino de Mococa (FAFEM)";SP;Pública;;;585;4.97;401;3.23;;;522;1.74;;
+597;"Universidade Municipal de São Caetano do Sul (USCS)";SP;Pública;0;0;587;4.84;275;4.73;;;658;0.11;;
+598;"Faculdade do Guarujá (FAGU)";SP;Privada;;;588;4.84;598;0.88;156;2.91;580;1.05;;
+599;"Faculdade Anhanguera de Negócios de Belo Horizonte (ESN)";MG;Privada;;;589;4.83;556;1.38;;;380;3.45;;
+600;"Faculdade Maurício de Nassau de Maceió";AL;Privada;0;0;590;4.81;299;4.45;;;637;0.36;;
+601;"Faculdade Estácio Da Amazônia (ATUAL)";RR;Privada;0;0;591;4.8;580;1.1;315;1.8;509;1.9;;
+602;"Faculdade de Informática Lemos de Castro (FILC)";RJ;Privada;;;592;4.73;461;2.52;471;0.71;542;1.5;;
+603;"Faculdade Atual (FAAT)";AP;Privada;;;593;4.69;661;0.13;569;0.02;289;4.54;;
+603;"Centro Universitário Estácio Radial de São Paulo (UNIRADIAL)";SP;Privada;0;0;593;4.69;505;1.99;;;442;2.7;;
+605;"Faculdade Anhanguera de Taguatinga (FAST)";DF;Privada;;;595;4.54;571;1.2;552;0.14;401;3.2;;
+605;"Faculdade dos Guararapes (FG)";PE;Privada;0;0;595;4.54;464;2.48;500;0.5;537;1.56;;
+605;"Faculdade Anhanguera de Guarulhos";SP;Privada;;;595;4.54;532;1.67;548;0.17;442;2.7;;
+608;"Faculdade Salesiana Dom Bosco de Piracicaba (FSDB)";SP;Privada;;;598;4.52;341;3.95;518;0.38;651;0.19;;
+609;"Faculdade Paraíso (FAP)";RJ;Privada;;;599;4.43;368;3.62;499;0.51;642;0.3;;
+610;"Faculdade Albert Einstein (FALBE)";DF;Privada;0;0;600;4.36;306;4.36;;;;;;
+611;"Faculdade de Mauá (FAMA)";SP;Privada;0;0;602;4.32;497;2.09;489;0.58;530;1.65;;
+612;"Faculdades Integradas de Cacoal (UNESC)";RO;Privada;;;604;4.31;527;1.73;;;452;2.58;;
+613;"Faculdade de Rolim de Moura (FAROL)";RO;Privada;;;605;4.3;642;0.36;151;2.95;585;0.99;;
+614;"Faculdade Anhanguera de Taubaté";SP;Privada;;;606;4.28;639;0.39;468;0.73;404;3.16;;
+615;"Faculdade de Taquaritinga (FTGA)";SP;Privada;;;607;4.26;403;3.21;558;0.1;588;0.95;;
+616;"Faculdade Padre João Bagozzi (FACULDADE BAGOZZI)";PR;Privada;;;609;4.11;338;3.98;;;656;0.13;;
+617;"Faculdades Integradas da Upis (UPIS)";DF;Privada;0;0;610;4.09;557;1.37;329;1.7;582;1.02;;
+618;"Faculdade Vitoriana de Tecnologia (FAVI)";ES;Privada;;;611;4.04;547;1.49;396;1.23;557;1.32;;
+619;"Centro Universitário Paulistano (UNIPAULISTANA)";SP;Privada;;;613;3.91;603;0.82;486;0.6;460;2.49;;
+620;"Faculdade de Balsas (UNIBALSAS)";MA;Privada;;;614;3.9;616;0.67;449;0.86;470;2.37;;
+621;"Faculdades Integradas de Itararé (FAFIT-FACIC)";SP;Privada;;;615;3.89;630;0.5;99;3.31;660;0.08;;
+621;"Faculdade de Tecnologia Tecbrasil - Unidade Porto Alegre (Ftec Porto Alegre)";RS;Privada;;;615;3.89;382;3.46;;;631;0.43;;
+623;"Escola Superior de Criciúma (ESUCRI)";SC;Privada;;;617;3.81;620;0.62;141;3.02;653;0.17;;
+623;"Faculdade de Ciências e Tecnologia Mater Christi (MATER CHRISTI)";RN;Privada;;;617;3.81;487;2.21;513;0.41;568;1.19;;
+625;"Faculdade do Piauí (FAPI)";PI;Privada;;;619;3.8;654;0.22;;;369;3.58;;
+626;"Faculdade Cenecista de Sete Lagoas (FCSL)";MG;Privada;;;620;3.76;436;2.81;472;0.7;646;0.25;;
+627;"Instituto Municipal de Ensino Superior de Catanduva (IMES CATANDUVA)";SP;Pública;;;621;3.7;505;1.99;;;525;1.71;;
+628;"Instituto de Ensino e Pesquisa Objetivo (IEPO)";TO;Privada;;;622;3.67;648;0.29;;;386;3.38;;
+629;"Centro Universitário Metropolitano de São Paulo (UNIMESP)";SP;Privada;;;623;3.61;468;2.43;;;569;1.18;;
+630;"Faculdade Anhanguera de Anápolis (FAAA)";GO;Privada;0;0;624;3.61;614;0.69;560;0.08;431;2.84;;
+631;"Fatece - Faculdade de Tecnologia, Ciências e Educação (FATECE)";SP;Privada;;;625;3.53;530;1.69;402;1.19;613;0.65;;
+632;"Faculdade Anhangüera de São José";SP;Privada;;;626;3.5;636;0.43;543;0.2;428;2.87;;
+633;"Faculdades Associadas de Uberaba (FAZU)";MG;Privada;;;627;3.49;643;0.35;219;2.47;611;0.67;;
+633;"Centro Universitário Nossa Senhora do Patrocínio (CEUNSP)";SP;Privada;0;0;627;3.49;550;1.46;421;1.06;586;0.97;;
+635;"Faculdade Anhangüera de Sorocaba (FSO)";SP;Privada;0;0;629;3.46;637;0.42;;;414;3.04;;
+636;"Faculdade Anhanguera de Educação, Ciências e Tecnologia de Sorocaba (FAECTS)";SP;Privada;;;630;3.38;615;0.68;;;442;2.7;;
+637;"Centro Universitário da Fundação Educacional Guaxupé (UNIFEG)";MG;Privada;0;0;631;3.3;537;1.61;506;0.46;565;1.23;;
+638;"Universidade Vale do Rio Verde (UNINCOR)";MG;Privada;;;632;3.23;570;1.22;;;500;2.01;;
+639;"Instituto de Ensino Superior de Itapira (IESI)";SP;Privada;;;633;3.14;632;0.48;429;1;529;1.66;;
+640;"Faculdade Guilherme Guimbala (FGG)";SC;Privada;;;634;3.02;605;0.8;278;2.06;654;0.16;;
+641;"Faculdades Integradas de Jacarepaguá (FIJ)";RJ;Privada;;;635;3.01;443;2.73;;;644;0.28;;
+642;"Faculdade Presidente Antônio Carlos de Visconde do Rio Branco";MG;Privada;0;0;636;3;538;1.6;426;1.02;635;0.38;;
+643;"Centro Universitário de Mandaguari (FAFIMAN)";PR;Pública;;;637;2.93;495;2.11;483;0.62;650;0.2;;
+644;"Centro Universitário Barriga Verde (UNIBAVE)";SC;Pública;;;638;2.93;567;1.25;408;1.15;623;0.53;;
+645;"Faculdade de Tecnologia do Piauí (FATEPI)";PI;Privada;;;639;2.91;564;1.29;505;0.47;571;1.15;;
+646;"Faculdade de Ciências Jurídicas e Gerenciais de Oliveira (FACIJUGO)";MG;Privada;;;641;2.85;586;1.03;399;1.21;616;0.61;;
+647;"Faculdade Santa Izildinha (FIESI)";SP;Privada;;;642;2.84;629;0.51;555;0.12;483;2.21;;
+648;"Faculdades Integradas do Extremo Sul da Bahia (UNESULBAHIA)";BA;Privada;;;643;2.8;610;0.74;540;0.22;514;1.84;;
+649;"Universidade Vale do Rio Doce (UNIVALE)";MG;Privada;0;0;644;2.74;646;0.31;343;1.6;598;0.83;;
+650;"Faculdade Municipal Professor Franco Montoro de Mogi Guaçu (FMPFM)";SP;Pública;;;645;2.65;465;2.47;546;0.18;;;;
+651;"Faculdade de Presidente Epitácio (FAPE)";SP;Privada;;;646;2.65;644;0.33;562;0.07;480;2.25;;
+652;"Faculdades Integradas Paulista (FIP)";SP;Privada;;;647;2.58;631;0.49;500;0.5;535;1.59;;
+653;"Instituto de Ensino Superior Santo André (IESA)";SP;Privada;;;650;2.36;559;1.35;;;583;1.01;;
+654;"Instituto Itapetiningano de Ensino Superior (IIES)";SP;Privada;;;651;2.28;658;0.17;503;0.48;531;1.63;;
+655;"Faculdade de Porto Velho (FIP)";RO;Privada;;;653;2.23;665;0.08;275;2.08;661;0.07;;
+656;"Faculdade Faccat (FACCAT)";SP;Privada;;;654;2.2;662;0.12;365;1.45;615;0.63;;
+657;"Centro Universitário de Desenvolvimento do Centro-Oeste (UNIDESC)";GO;Privada;;;655;2.14;574;1.17;525;0.33;614;0.64;;
+658;"Faculdade de Tecnologia e Ciências de Pernambuco (FATEC)";PE;Privada;;;656;1.99;594;0.93;423;1.04;665;0.02;;
+659;"Centro Universitário de Goiás (UNI-ANHANGÜERA)";GO;Privada;;;657;1.82;596;0.91;542;0.21;609;0.7;;
+660;"Faculdade de Imperatriz (FACIMP)";MA;Privada;;;658;1.68;666;0.07;449;0.86;605;0.75;;
+661;"Faculdade da Cidade de Maceió (FACIMA)";AL;Privada;;;659;1.5;617;0.66;485;0.61;648;0.23;;
+662;"Faculdade Esamc Santos (ESAMC)";SP;Privada;;;660;1.35;634;0.45;;;592;0.9;;
+663;"Faculdade Luiz Eduardo Magalhães (FILEM)";BA;Privada;;;661;1.1;618;0.64;;;629;0.46;;
+664;"Faculdade Brasil Norte (FABRAN)";AP;Privada;;;662;1.09;670;0.02;;;578;1.07;;
+665;"Instituto Unificado de Ensino Superior Objetivo (IUESO)";GO;Privada;;;663;1.03;655;0.2;473;0.69;655;0.14;;
+666;"Faculdade Kennedy (FK)";MG;Privada;0;0;664;0.91;651;0.25;;;612;0.66;;
+667;"Faculdade Assis Gurgacz (FAG)";PR;Privada;0;0;665;0.87;628;0.53;;;639;0.34;;
+668;"Faculdade de Ensino Superior de São Miguel do Iguaçu (FAESI)";PR;Privada;0;0;666;0.79;655;0.2;;;618;0.59;;
+669;"Faculdade Uberlandense de Núcleos Integrados de Ensino, Serviço Social e Aprendizagem (FAESSA)";MG;Privada;;;667;0.7;622;0.6;;;659;0.1;;
+670;"Instituto Cuiabá de Ensino e Cultura (ICEC)";MT;Privada;0;0;668;0.6;663;0.11;519;0.37;657;0.12;;
+671;"Faculdade Iguaçu (FI)";PR;Privada;;;669;0.44;657;0.18;;;645;0.26;;
+672;"Faculdade Cesmac do Agreste (CESMAC Agreste)";AL;Privada;;;670;0.19;671;0.01;;;652;0.18;;
+673;"Faculdade de Ciência e Educação do Caparaó (FACEC)";ES;Privada;0;0;671;0.16;659;0.16;;;;;;

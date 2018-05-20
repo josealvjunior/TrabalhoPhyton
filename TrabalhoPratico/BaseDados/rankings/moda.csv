@@ -1,0 +1,51 @@
+Posição;Nome;Estado;"Pública ou Privada";"Posição em avaliação do Mercado";"Nota em avaliação do Mercado";"Posição em qualidade de ensino";"Nota em qualidade de ensino";"Posição em Instrução dos Professores";"Nota em Instrução dos Professores";"Posição Nota dos concluintes";"Nota dos concluintes";"Posição em Tempo de Dedicação dos Professores";"Nota em Tempo de Dedicação dos Professores";"Posição no MEC";"Nota no MEC"
+1;"Universidade Anhembi Morumbi (UAM)";SP;Privada;1;36;3;52.56;4;7.52;;;34;2.61;2;42.43
+2;"Universidade Federal do Ceará (UFC)";CE;Pública;4;31.68;2;52.91;6;7.2;;;1;8;5;37.71
+3;"Universidade de São Paulo (USP)";SP;Pública;9;24.48;1;60;1;8;;;1;8;1;44
+4;"Centro Universitário Senac (SENACSP)";SP;Privada;4;31.68;7;48.55;24;4.32;;;39;1.8;2;42.43
+5;"Faculdade Santa Marcelina (FASM)";SP;Privada;1;36;9;41.87;25;4.16;;;;;5;37.71
+6;"Universidade Estadual de Londrina (UEL)";PR;Pública;9;24.48;4;51.79;13;6.08;;;1;8;5;37.71
+7;"Universidade Federal de Goiás (UFG)";GO;Pública;9;24.48;5;50.67;20;4.96;;;1;8;5;37.71
+8;"Universidade Federal de Minas Gerais (UFMG)";MG;Pública;9;24.48;8;47.11;3;7.68;;;1;8;9;31.43
+9;"Faculdade Senai-Cetiqt (SENAI-CETIQT)";RJ;Privada;4;31.68;10;38.37;38;2.08;;;1;8;11;28.29
+10;"Centro Universitário de Maringá (UNICESUMAR)";PR;Privada;9;24.48;11;37.09;12;6.24;;;15;5.71;13;25.14
+11;"Faculdade de Artes Plásticas da Fundação Armando Alvares Penteado (FAAP)";SP;Privada;9;24.48;12;36.71;19;5.12;;;49;0.16;9;31.43
+12;"Universidade Estadual de Maringá (UEM)";PR;Pública;9;24.48;13;36.34;31;3.2;;;1;8;13;25.14
+13;"Universidade Regional de Blumenau (FURB)";SC;Pública;1;36;22;24.52;15;5.76;;;41;1.47;18;17.29
+14;"Centro Universitário Belas Artes de São Paulo (FEBASP)";SP;Privada;9;24.48;14;35.83;11;6.4;;;43;1.14;11;28.29
+15;"Universidade do Vale do Rio dos Sinos (UNISINOS)";RS;Privada;4;31.68;19;28.41;7;7.04;;;25;4.08;18;17.29
+16;"Universidade do Vale do Itajaí (UNIVALI)";SC;Privada;9;24.48;15;34.86;28;3.68;;;13;6.04;13;25.14
+17;"Universidade Feevale (FEEVALE)";RS;Privada;9;24.48;16;34.53;27;3.84;;;16;5.55;13;25.14
+18;"Universidade Veiga de Almeida (UVA)";RJ;Privada;9;24.48;20;27.61;10;6.56;;;27;3.76;18;17.29
+19;"Centro Universitário das Faculdades Metropolitanas Unidas (FMU)";SP;Privada;9;24.48;21;25.39;30;3.36;;;21;4.74;18;17.29
+20;"Fundação Universidade do Estado de Santa Catarina (UDESC)";SC;Pública;;;6;49.48;9;6.72;;;48;0.33;2;42.43
+21;"Universidade Fumec (FUMEC)";MG;Privada;9;24.48;23;24.24;29;3.52;;;29;3.43;18;17.29
+22;"Universidade Estácio de Sá (UNESA)";RJ;Privada;9;24.48;24;19.88;43;1.28;;;42;1.31;18;17.29
+23;"Centro Universitário Leonardo da Vinci (UNIASSELVI)";SC;Privada;4;31.68;39;6.36;48;0.48;;;14;5.88;0;0
+24;"Universidade Federal de Juiz de Fora (UFJF)";MG;Pública;0;0;17;33.13;2;7.84;;;1;8;18;17.29
+25;"Pontifícia Universidade Católica do Paraná (PUCPR)";PR;Privada;0;0;18;32.07;23;4.48;;;35;2.45;13;25.14
+26;"Católica de Santa Catarina em Jaraguá do Sul (Católica em Jaraguá)";SC;Privada;9;24.48;42;5.82;32;3.04;;;33;2.78;0;0
+27;"Universidade do Estado de Minas Gerais (UEMG)";MG;Pública;9;24.48;47;3.26;49;0.32;;;32;2.94;0;0
+28;"Universidade Salgado de Oliveira (UNIVERSO)";RJ;Privada;9;24.48;49;2.58;40;1.76;;;45;0.82;0;0
+29;"Universidade da Amazônia (UNAMA)";PA;Privada;0;0;25;16.79;17;5.44;;;19;5.06;25;6.29
+30;"Faculdade de Ensino Superior do Interior Paulista (FAIP)";SP;Privada;;;26;15.36;5;7.36;;;1;8;0;0
+31;"Universidade Federal do Piauí (UFPI)";PI;Pública;0;0;27;14.93;47;0.64;;;1;8;25;6.29
+32;"Universidade Tuiuti do Paraná (UTP)";PR;Privada;;;28;12.58;26;4;;;36;2.29;25;6.29
+33;"Faculdade Paulista de Artes (FPA)";SP;Privada;;;29;11.78;8;6.88;;;20;4.9;;
+34;"Centro Universitário de Rio Preto (UNIRP)";SP;Privada;;;30;10.99;16;5.6;;;17;5.39;0;0
+35;"Centro Universitário Una (UNA)";MG;Privada;0;0;31;10.83;42;1.44;;;31;3.1;25;6.29
+36;"Centro Universitário Salesiano de São Paulo (UNISAL)";SP;Privada;0;0;32;10.33;14;5.92;;;23;4.41;0;0
+37;"Centro Universitário Estácio de Sá de Santa Catarina (FESSC)";SC;Privada;0;0;33;8.89;22;4.64;;;24;4.25;0;0
+38;"Faculdade do Vale do Itajaí Mirim (FAVIM)";SC;Privada;;;34;8.44;37;2.24;;;12;6.2;;
+39;"Faculdade Metropolitana de Guaramirim (FAMEG)";SC;Privada;;;35;8.16;50;0.16;;;1;8;;
+40;"Faculdade de Desenvolvimento e Integração Regional (FADIRE)";PE;Privada;0;0;36;8.07;21;4.8;;;30;3.27;;
+41;"Centro Universitário do Triângulo (UNITRI)";MG;Privada;;;37;6.82;41;1.6;;;18;5.22;;
+42;"Centro Universitário Campos de Andrade (UNIANDRADE)";PR;Privada;;;38;6.47;33;2.88;;;28;3.59;;
+43;"Universidade do Vale do Paraíba (UNIVAP)";SP;Privada;;;40;5.93;18;5.28;;;46;0.65;;
+44;"Faculdades Integradas Espírito Santenses (FAESA I)";ES;Privada;;;41;5.84;39;1.92;;;26;3.92;0;0
+45;"Faculdade de Presidente Prudente (FAPEPE)";SP;Privada;;;43;5.37;46;0.8;;;22;4.57;;
+46;"Centro Universitário de Brusque (UNIFEBE)";SC;Privada;0;0;44;4.68;35;2.56;;;37;2.12;0;0
+47;"Centro Universitário Metodista (IPA)";RS;Privada;;;45;4.35;34;2.72;;;40;1.63;0;0
+48;"Centro Universitário Moura Lacerda (CUML)";SP;Privada;;;46;3.38;36;2.4;;;44;0.98;0;0
+49;"Universidade de Franca (UNIFRAN)";SP;Privada;0;0;48;3.08;44;1.12;;;38;1.96;0;0
+50;"Faculdade de Arte e Design (FAD)";MG;Privada;;;50;1.45;45;0.96;;;47;0.49;;
